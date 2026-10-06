@@ -1,0 +1,426 @@
+[
+  {
+    "id": "L1-SRC-001",
+    "date": "2026-10-02",
+    "publisher": "Blast",
+    "title": "Data centers géants : l'État déroule le tapis rouge, les habitants résistent",
+    "url": "https://www.blast-info.fr/articles/2026/data-centers-geants-l-etat-deroule-le-tapis-rouge-les-habitants-resistent--1E3-AbiQFS_0v33MRlvEA",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-002",
+    "date": "2026-10-01",
+    "publisher": "The Local",
+    "title": "Opposition grows as France plans wave of giant data centres",
+    "url": "https://www.thelocal.fr/20261001/opposition-grows-as-france-plans-wave-of-giant-data-centres",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-003",
+    "date": "2026-09-06",
+    "publisher": "Challenges",
+    "title": "Xavier Niel l’a recrutée sur LinkedIn : Aude Durand, la stratège qui pilote l’offensive IA d’Iliad",
+    "url": "https://www.challenges.fr/entreprise/telecoms/xavier-niel-la-recrutee-sur-linkedin-aude-durand-la-stratege-qui-pilote-loffensive-ia-diliad_645539",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-004",
+    "date": "2026-08-28",
+    "publisher": "01net",
+    "title": "Free perd patience face à l’administration française, il faut une éternité pour des data centers IA",
+    "url": "https://www.01net.com/?p=1366506",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-005",
+    "date": "2026-08-12",
+    "publisher": "Google News",
+    "title": "EDF, OpCore in talks to repurpose power plant in Paris",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE9wZktXeFdNZlgxYmFxWkpraXN4NEVWWXFRTmNMTVNsUHRaU1lGNTV3Snp3azh1RG1uQ0pUYkxn?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "sourceStatus": "secondaire consultée via redirection"
+  },
+  {
+    "id": "L1-SRC-006",
+    "date": "2026-07-22",
+    "publisher": "Politico",
+    "title": "Attirer les datacenters coûte que coûte : la stratégie de l’Elysée de plus en plus critiquée",
+    "url": "https://www.politico.eu/article/attirer-les-datacenters-coute-que-coute-la-strategie-de-lelysee-de-plus-en-plus-critiquee/",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-007",
+    "date": "2026-07-09",
+    "publisher": "Google News",
+    "title": "EDF and OpCore to develop a high-power data center on site of former thermal power plant in Montereau-Vallée-de-la-Seine",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQb25WNlFiSVNlTUpVa1JRTmlQUWg3MDk4QzR2MzhhV0lXd3VZRUZKRHVXeUl1SFZKSjZCVEdNaG8yVkpRSjdTWVpILUtoTVFvYnRtZVllMEk3MVYxUGoxQm1HaUNJV1lVTXJmamRSLVQ3elJ5WUZNUFg0aE5YcXZKdXpONFhJeGhabV81enZXS1hPbk84UTdYR196ZlhhSG04cWtxV1Q4SXQtdzBiSFVTc2hDRmdjTjBHVHhPS1FmT2gxQ3dkWFA1Ym5VLUNKRWtHenI5ZUczUlBjZnNlbnJWUmRTNENtZ2Fka2praFhvYzZieTNwWXhkcjJlZXFYQnBpT3ZrRDZJODB3QmNmZFNEYW1NcUpaalNUbVVRTlpGSFVXdw?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "sourceStatus": "communiqué relayé consulté via redirection"
+  },
+  {
+    "id": "L1-SRC-008",
+    "date": "2026-06-16",
+    "publisher": "Observatoire des multinationales",
+    "title": "Derrière la loi simplification, l’offensive des Big Tech et du lobby des datacenters",
+    "url": "https://multinationales.org/fr/enquetes/profits-et-pertes-derriere-le-boom-des-datacenters-en-france/derriere-la-loi-simplification-l-offensive-des-big-tech-et-du-lobby-des",
+    "sourceStatus": "secondaire d'analyse consultée"
+  },
+  {
+    "id": "L1-SRC-009",
+    "date": "2026-06-05",
+    "publisher": "Capgemini",
+    "title": "CP_200526_Eng",
+    "url": "https://www.capgemini.com/wp-content/uploads/2026/05/CP_200526_Eng.pdf",
+    "sourceStatus": "primaire consultée"
+  },
+  {
+    "id": "L1-SRC-010",
+    "date": "2026-05-28",
+    "publisher": "L'Usine Nouvelle",
+    "title": "L'impact environnemental a été un critère fort : EDF choisit de nouveau Eclairion",
+    "url": "https://www.usinenouvelle.com/electronique-informatique/cloud-computing/datacenters/limpact-environnemental-a-ete-un-critere-fort-edf-choisit-de-nouveau-eclairion-pour-construire-un-datacenter-sur-un-ancien-site-pres-de-lyon.ANTB3646CZEM7ONK56A3DMRI3Y.html",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-011",
+    "date": "2026-05-26",
+    "publisher": "Capgemini",
+    "title": "Ardian, Artefact, Bull, EDF, Capgemini, the iliad Group, Orange and Scaleway combine their expertise",
+    "url": "https://www.capgemini.com/news/press-releases/ardian-artefact-bull-edf-capgemini-the-iliad-grouporange-and-scaleway-combine-their-expertise-to-run-as-acandidate-for-a-european-ai-gigafactory-in-france/",
+    "sourceStatus": "primaire consultée"
+  },
+  {
+    "id": "L1-SRC-012",
+    "date": "2026-05-21",
+    "publisher": "Le Figaro",
+    "title": "Iliad, Orange, Capgemini, Bull, EDF… Une dream team française pour accueillir l’un des méga-data centers IA européen",
+    "url": "https://www.lefigaro.fr/secteur/high-tech/iliad-orange-capgemini-bull-edf-une-dream-team-francaise-pour-accueillir-l-un-des-mega-data-centers-ia-europeen-20260520",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-013",
+    "date": "2026-05-20",
+    "publisher": "iliad",
+    "title": "Ardian, Artefact, Bull, Capgemini, EDF, le Groupe iliad, Orange et Scaleway unissent leurs expertises",
+    "url": "https://www.iliad.fr/media/CP_200526_AION_c7e49b27e3.pdf",
+    "sourceStatus": "primaire consultée"
+  },
+  {
+    "id": "L1-SRC-014",
+    "date": "2026-05-07",
+    "publisher": "Observatoire des multinationales",
+    "title": "Big Tech, opérateurs, fonds d’investissement, fournisseurs... À qui profite vraiment le boom des datacenters en France ?",
+    "url": "https://multinationales.org/fr/enquetes/profits-et-pertes-derriere-le-boom-des-datacenters-en-france/big-tech-operateurs-fonds-d-investissement-fournisseurs-a-qui-profite-vraiment",
+    "sourceStatus": "secondaire d'analyse consultée"
+  },
+  {
+    "id": "L1-SRC-015",
+    "date": "2026-04-24",
+    "publisher": "Banque des Territoires",
+    "title": "150 grands projets stratégiques : après les annonces, place aux interrogations",
+    "url": "https://www.banquedesterritoires.fr/150-grands-projets-strategiques-place-aux-interrogations",
+    "sourceStatus": "secondaire institutionnelle consultée"
+  },
+  {
+    "id": "L1-SRC-016",
+    "date": "2026-03-04",
+    "publisher": "La Tribune",
+    "title": "Carte : où en sont les projets de data centers en France ?",
+    "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/4286214792786/carte-ou-en-sont-les-projets-de-data-centers-en-france?id=4286214792786",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-017",
+    "date": "2026-02-20",
+    "publisher": "Bing / L'Usine Nouvelle",
+    "title": "Un alignement de bonnes volontés nous permet d’avancer assez vite : ce que l’on sait du Campus IA",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&url=https%3a%2f%2fwww.usinenouvelle.com%2felectronique-informatique%2fcloud-computing%2fdatacenters%2fun-alignement-de-bonne-volonte-nous-permet-davancer-assez-vite-un-an-apres-le-sommet-sur-lia-ce-que-lon-sait-du-campus-ia-de-mgx-mistral-nvidia-et-bpifrance.IQIRGIK6BVHIHAM3IWDZQ2T6JQ.html&mkt=fr-fr",
+    "sourceStatus": "secondaire consultée via redirection"
+  },
+  {
+    "id": "L1-SRC-018",
+    "date": "2026-02-11",
+    "publisher": "WanSquare",
+    "title": "Un an après le Sommet pour l’action sur l’IA de Paris, place au bilan",
+    "url": "https://www.wansquare.com/012-44502-un-an-apres-le-sommet-pour-laction-sur-lia-de-paris-place-au-bilan.html",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L1-SRC-019",
+    "date": "2026-02-11",
+    "publisher": "Le Figaro",
+    "title": "Un an après les 109 milliards d’euros promis au sommet de l’IA, les projets se concrétisent",
+    "url": "https://www.lefigaro.fr/secteur/high-tech/un-an-apres-les-109-milliards-d-euros-promis-au-sommet-de-l-ia-les-projets-de-nouveaux-data-centers-en-france-se-concretisent-20260210",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-001",
+    "date": "2026-02-02",
+    "publisher": "Le Monde Informatique",
+    "title": "L'Etat accélère l'éclosion des datacenters IA",
+    "url": "https://www.lemondeinformatique.fr/actualites/lire-l-etat-accelere-l-eclosion-des-datacenters-ia-99231.html",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-002",
+    "date": "2026-02-02",
+    "publisher": "ZDNet",
+    "title": "Infrastructures IA : l'État identifie 63 sites stratégiques et accélère le raccordement électrique",
+    "url": "https://www.zdnet.fr/actualites/infrastructures-ia-letat-identifie-63-sites-strategiques-et-accelere-le-raccordement-electrique-489205.htm",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-003",
+    "date": "2026-01-21",
+    "publisher": "Le Nuage était sous nos pieds",
+    "title": "Construire des luttes contre les infrastructures du numérique",
+    "url": "https://lenuageetaitsousnospieds.org/articles/2025-08-26-construire-des-luttes-contre-les-infrastructures-du-numerique.html",
+    "sourceStatus": "primaire de position consultée"
+  },
+  {
+    "id": "L2-SRC-004",
+    "date": "2026-01-20",
+    "publisher": "L'Usine Nouvelle",
+    "title": "Après la Seine-et-Marne et la Moselle, EDF va accueillir un quatrième datacenter sur le site d'une ancienne centrale près de Lyon",
+    "url": "https://www.usinenouvelle.com//electronique-informatique/cloud-computing/datacenters/apres-la-seine-et-marne-et-la-moselle-edf-va-accueillir-un-quatrieme-datacenter-sur-le-site-dune-ancienne-centrale-pres-de-lyon.LN4PT3V2WZDXJAVUQN2KZCJKBQ.html",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-005",
+    "date": "2026-01-09",
+    "publisher": "Le Nuage était sous nos pieds",
+    "title": "Carte des data centers, des projets et des contestations en France",
+    "url": "https://lenuageetaitsousnospieds.org/articles/2025-12-11-carte-des-data-centers-des-projets-et-des-contestations-en-france.html",
+    "sourceStatus": "primaire de position consultée"
+  },
+  {
+    "id": "L2-SRC-006",
+    "date": "2025-12-17",
+    "publisher": "ZDNet",
+    "title": "Voici 5 projets de datacenters qui vont sortir de terre en Ile-de-France",
+    "url": "https://www.zdnet.fr/actualites/voici-5-projets-de-datacenters-qui-vont-sortir-de-terre-en-ile-de-france-486817.htm",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-007",
+    "date": "2025-12-02",
+    "publisher": "ZDNet",
+    "title": "Implantation de datacenters en France : suivez le guide",
+    "url": "https://www.zdnet.fr/actualites/implantation-de-datacenters-en-france-suivez-le-guide-485897.htm",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-008",
+    "date": "2025-12-01",
+    "publisher": "Banque des Territoires",
+    "title": "Accueil de datacenters : le gouvernement déroule son argumentaire",
+    "url": "https://www.banquedesterritoires.fr/accueil-de-datacenters-le-gouvernement-deroule-son-argumentaire",
+    "sourceStatus": "secondaire institutionnelle consultée"
+  },
+  {
+    "id": "L2-SRC-009",
+    "date": "2025-12-01",
+    "publisher": "Actu.fr",
+    "title": "Data center en Seine-et-Marne (1/4). Cette ancienne centrale à charbon va devenir un immense centre de données",
+    "url": "https://actu.fr/ile-de-france/la-grande-paroisse_77210/data-center-en-seine-et-marne-1-4-cette-ancienne-centrale-a-charbon-va-devenir-un-immense-centre-de-donnees_63485577.html",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-010",
+    "date": "2025-12-01",
+    "publisher": "Next",
+    "title": "Bercy met de l’huile dans les rouages de l’implantation de datacenters en France",
+    "url": "https://next.ink/211342/bercy-met-de-lhuile-dans-les-rouages-de-limplantation-de-datacenters-en-france/",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-011",
+    "date": "2025-11-20",
+    "publisher": "Révolution Énergétique",
+    "title": "Ce datacenter gigantesque va s'installer sur une ancienne centrale au fioul d'EDF",
+    "url": "https://www.revolution-energetique.com/breves/ce-datacenter-gigantesque-va-sinstaller-sur-une-ancienne-centrale-au-fioul-dedf/",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-012",
+    "date": "2025-11-19",
+    "publisher": "France Datacenter",
+    "title": "Post de France Datacenter",
+    "url": "https://fr.linkedin.com/posts/francedatacenter_choosefrance-datacenters-activity-7396944120851894272-xkrR",
+    "sourceStatus": "primaire de position consultée"
+  },
+  {
+    "id": "L2-SRC-013",
+    "date": "2025-11-18",
+    "publisher": "ZDNet",
+    "title": "Opcore déploie un datacenter à 4 milliards d'euros sur un site EDF",
+    "url": "https://www.zdnet.fr/actualites/opcore-deploie-un-datacenter-a-4-milliards-deuros-sur-un-site-edf-485083.htm",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-014",
+    "date": "2025-11-18",
+    "publisher": "Batiactu",
+    "title": "Des collectivités souhaitent un encadrement de l'essor des data centers",
+    "url": "https://www.batiactu.com/edito/collectivites-souhaitent-que-essor-data-centers-soit-72912.php",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-015",
+    "date": "2025-11-18",
+    "publisher": "La Tribune",
+    "title": "Pourquoi les maires ont intérêt à accueillir des data centers sur leur territoire",
+    "url": "https://www.latribune.fr/article/tech/37923012103495/pourquoi-les-maires-ont-interet-a-accueillir-des-data-centers-sur-leur-territoire?id=37923012103495",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-016",
+    "date": "2025-11-18",
+    "publisher": "Le Parisien",
+    "title": "Seine-et-Marne : le site de l’ex centrale thermique au charbon d’EDF va accueillir un data center",
+    "url": "https://www.leparisien.fr/seine-et-marne-77/seine-et-marne-le-site-de-lex-centrale-thermique-au-charbon-dedf-va-accueillir-un-data-center-17-11-2025-NSZ57MQXGBASPEVCM4DVJOGBK4.php",
+    "sourceStatus": "secondaire avec déclarations attribuées consultée"
+  },
+  {
+    "id": "L2-SRC-017",
+    "date": "2025-11-17",
+    "publisher": "La Revue du Digital",
+    "title": "Une France accueillante aux centres de données lors de Choose France – Edition France",
+    "url": "https://www.larevuedudigital.com/une-france-accueillante-aux-centres-de-donnees-lors-de-choose-france-edition-france/",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-018",
+    "date": "2025-11-17",
+    "publisher": "Alliancy",
+    "title": "Choose France – Édition France : le numérique sort du lot",
+    "url": "https://www.alliancy.fr/choose-france-edition-france-le-numerique-sort-du-lot",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L2-SRC-019",
+    "date": "2025-11-17",
+    "publisher": "Usine Digitale via page de protection",
+    "title": "Choose France : Opcore et Eclairion investissent massivement pour construire des data centers IA dans l'Hexagone",
+    "url": "https://validate.perfdrive.com/eade37b2903d090748afd0a6504a7ce0/?ssa=34e024c3-5b0e-4a87-b9d7-870f7f86b040&ssb=17082205624&ssc=https%3A%2F%2Fwww.usine-digitale.fr%2Feditorial%2Fchoose-france-opcore-et-eclairion-investissement-massivement-pour-construire-des-data-centers-dans-l-hexagone.N2241509&ssi=17caee11-cyai-4308-9602-cbfc87a85fe2&ssk=botmanager_support@radware.com&ssm=62396407554970097109590460541696&ssn=33e5a847f2d022ecbe8fd5e97b72a15a92927ba9f159-4305-4279-b5038b&sso=96d46cc2-7974c75a791c2b26483f6eb8f919041cf22f4c1f6e08a52b&ssp=21258891601763416595176342907681159&ssq=08363240777615256890307776592547877153070&ssr=MTQ1LjIzOS4xNC4xMTg=&sst=Mozilla/5.0%20(X11;%20Linux%20x86_64;%20rv:134.0)%20Gecko/20100101%20Firefox/134.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6InVzaW5lLWRpZ2l0YWxlLmZyIiwiX191em1mIjoiN2Y5MDAwN2JhOWYxNTktNDMwNS00Mjc5LWJjYzItNzk3NGM3NWE3OTFjMS0xNzYzNDA3Nzc2NTUzMC0wMDE5YjM2ZWQ4Yjk3MzJlY2EyMTAiLCJ1em14IjoiN2Y5MDAwYWRkZTAwZDAtNTYwZi00ZjJhLTkxZTctMTRjNGZiMjk4MDlhMS0xNzYzNDA3Nzc2NTUzMC02NTA5NDdkMjQzMTc3MTMzMTAifQ==",
+    "sourceStatus": "secondaire consultée via contenu du corpus; URL technique fournie"
+  },
+  {
+    "id": "L2-SRC-020",
+    "date": "2025-11-17",
+    "publisher": "Le Monde Informatique",
+    "title": "EDF retient Opcore et Eclairion pour créer des datacenters IA",
+    "url": "https://www.lemondeinformatique.fr/actualites/lire-edf-retient-opcore-et-eclairion-pour-creer-des-datacenters-ia-98510.html",
+    "sourceStatus": "secondaire consultée"
+  },
+  {
+    "id": "L3-SRC-001",
+    "date": "2025-11-17",
+    "publisher": "Le Monde",
+    "title": "L’opérateur Opcore va investir 4 milliards d’euros dans un centre de données en Seine-et-Marne",
+    "url": "https://www.lemonde.fr/economie/article/2025/11/17/l-operateur-opcore-va-investir-4-milliards-d-euros-dans-un-centre-de-donnees-en-seine-et-marne-l-investissement-le-plus-important-annonce-au-sommet-choose-france_6653735_3234.html",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-002",
+    "date": "2025-11-17",
+    "publisher": "La Tribune",
+    "title": "Choose France : OpCore et Eclairion vont construire des data centers sur d'anciens sites EDF",
+    "url": "https://www.latribune.fr/article/tech/intelligence-artificielle/5892309879382/choose-france-opcore-et-eclairion-vont-construire-des-data-centers-sur-danciens-sites-edf?id=5892309879382",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-003",
+    "date": "2025-10-11",
+    "publisher": "Le Nouvel Économiste",
+    "title": "Un datacenter à 35 milliards d’euros dans la Brie",
+    "url": "https://www.lenouveleconomiste.fr/un-datacenter-a-35-milliards-deuros-dans-la-brie-129241/",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-004",
+    "date": "2025-09-07",
+    "publisher": "Le Nouvel Économiste",
+    "title": "EDF lance un projet de datacenter avec Opcore en Seine-et-Marne",
+    "url": "https://www.lenouveleconomiste.fr/edf-lance-un-projet-de-datacenter-avec-opcore-en-seine-et-marne-128133/",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-005",
+    "date": "2025-08-13",
+    "publisher": "Mes Infos",
+    "title": "EDF confie à OpCore le data center de Montereau Vallée de la Seine",
+    "url": "https://mesinfos.fr/77130-la-grande-paroisse/edf-confie-a-opcore-le-data-center-de-montereau-vallee-de-la-seine-228179.html",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-006",
+    "date": "2025-08-05",
+    "publisher": "DCmag",
+    "title": "EDF a retenu OPCORE pour construire et exploiter le futur datacenter 100% français de Montereau Vallée de la Seine",
+    "url": "https://dcmag.fr/edf-a-retenu-opcore-pour-construire-et-exploiter-le-futur-datacenter-de-montereau-vallee-de-la-seine/",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-007",
+    "date": "2025-07-24",
+    "publisher": "Connaissance des Énergies / AFP",
+    "title": "Dans un marché de l'énergie en berne, EDF en quête d'efficacité",
+    "url": "https://www.connaissancedesenergies.org/afp/dans-un-marche-de-lenergie-en-berne-edf-en-quete-defficacite-250724",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-008",
+    "date": "2025-06-02",
+    "publisher": "Le Monde",
+    "title": "Data centers et intelligence artificielle : la course au gigantisme",
+    "url": "https://www.lemonde.fr/economie/article/2025/06/01/data-centers-et-intelligence-artificielle-la-course-au-gigantisme_6609751_3234.html",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-009",
+    "date": "2025-04-22",
+    "publisher": "Google News / GlobeNewswire",
+    "title": "France Data Center Market Investment Analysis Report 2025-2030",
+    "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNZkFkaUw3ZFBGWEVFTnFvRW1ub2YwUGNRa1RIM1ZrTkt3OV9NNmh5VUZtTkZHbmFCVWIzX2IzS2hyTDNtVUdGUkU3bWlzX2ZDZ185TU83RE00VUdOSmJyVkY3SXdWRDVKRDc1Mnh6bDBLTVFqMkR4SnRJV2Vqcm5YTlZUSVJCTjFqVk9aWnRxNHdJTFI1cUVIZ0dSWWMtZjVBSk04NS1Nd0c4Ti1JWkVmYnJFaVdncC1WUGFEZU81WG5PaVhiNnNPSzZyT0Q0TkZqRkp5djFoQlpOMHhVRVMxaEtBZWZuY1Y5RWFidFFJVGhrenZoVlFXbXFveHNqWXVFU09kSE90Y1Z0Nm9USG5id0s5RzFZbW5VVzVOMVZSNjluVGVjcHFrOTdIU08xYkFCUFFUVjc2MHpuM1puWjhhS3BpRFRqT1U0a2N5M0J5bmVKS05XcjN6WE5jUHpHMkVjRjR0eEhGSHVxWEk?oc=5&ucbcb=1&hl=en-US&gl=US&ceid=US:en",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-010",
+    "date": "2025-04-17",
+    "publisher": "Next",
+    "title": "Consommation des datacenters en France : 2,4 TWh d’électricité et 6 millions de m³ d’eau",
+    "url": "https://next.ink/181389/consommation-des-datacenters-en-france-24-twh-delectricite-et-6-millions-de-m%C2%B3-deau/",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-011",
+    "date": "2025-04-04",
+    "publisher": "DCmag",
+    "title": "Groupe iliad finalise la cession de 50% d’Opcore à InfraVia",
+    "url": "https://dcmag.fr/groupe-iliad-finalise-la-cession-de-50-dopcore-a-infravia/",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-012",
+    "date": "2025-04-03",
+    "publisher": "Finyear",
+    "title": "OpCore : Le Groupe iliad et InfraVia finalisent leur partenariat pour un leadership européen dans les datacenters hyperscale",
+    "url": "https://www.finyear.com/OpCore-Le-Groupe-iliad-et-InfraVia-finalisent-leur-partenariat-pour-un-leadership-europeen-dans-les-datacenters_a52314.html",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-013",
+    "date": "2025-02-17",
+    "publisher": "LeMagIT",
+    "title": "Datacenters IA en France : promesses contre promesses",
+    "url": "https://www.lemagit.fr/actualites/366619359/Datacenters-IA-en-France-promesses-contre-promesses",
+    "sourceStatus": "consultée dans le corpus"
+  },
+  {
+    "id": "L3-SRC-014",
+    "date": "2025-02-10",
+    "publisher": "Journal du Net",
+    "title": "Portées par l'IA, les infrastructures cloud de la France vont changer de dimension",
+    "url": "https://www.journaldunet.com/cloud/1539035-des-investissements-massifs-dans-les-datacenters-pour-soutenir-l-ia-en-france/",
+    "sourceStatus": "consultée dans le corpus"
+  }
+]
