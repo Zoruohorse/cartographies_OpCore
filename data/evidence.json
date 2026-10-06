@@ -1,0 +1,511 @@
+[
+  {
+    "id": "L1-EV-001",
+    "qualification": "ÉVOLUTION",
+    "type": "fait établi par sources concordantes",
+    "claim": "Le projet Montereau porté par Opcore est associé à une puissance allant de 400 à 700 MW selon les sources et dates, environ 4 Md€ et une mise en service initiale annoncée en 2027.",
+    "verbatim": "OpCore... souhaite la même puissance pour son data center sur l'ancienne centrale EDF de Montereau.",
+    "sourceIds": [
+      "L1-SRC-001",
+      "L1-SRC-002",
+      "L1-SRC-004",
+      "L1-SRC-005",
+      "L1-SRC-007",
+      "L1-SRC-014",
+      "L1-SRC-016",
+      "L1-SRC-018",
+      "L1-SRC-019"
+    ],
+    "certainty": "Haute",
+    "text": "Le projet Montereau porté par Opcore est associé à une puissance allant de 400 à 700 MW selon les sources et dates, environ 4 Md€ et une mise en service initiale annoncée en 2027. « OpCore... souhaite la même puissance pour son data center sur l'ancienne centrale EDF de Montereau. »",
+    "source_ids": [
+      "L1-SRC-001",
+      "L1-SRC-002",
+      "L1-SRC-004",
+      "L1-SRC-005",
+      "L1-SRC-007",
+      "L1-SRC-014",
+      "L1-SRC-016",
+      "L1-SRC-018",
+      "L1-SRC-019"
+    ]
+  },
+  {
+    "id": "L1-EV-002",
+    "qualification": "ÉVOLUTION",
+    "type": "position déclarée",
+    "claim": "Thomas Reynaud critique des délais administratifs de deux à deux ans et demi, voire trois ans, avant le lancement de la construction.",
+    "verbatim": "Prévoyez deux à deux ans et demi avant de lancer la construction d’un site de cette taille.",
+    "sourceIds": [
+      "L1-SRC-001",
+      "L1-SRC-004"
+    ],
+    "certainty": "Haute",
+    "text": "Thomas Reynaud critique des délais administratifs de deux à deux ans et demi, voire trois ans, avant le lancement de la construction. « Prévoyez deux à deux ans et demi avant de lancer la construction d’un site de cette taille. »",
+    "source_ids": [
+      "L1-SRC-001",
+      "L1-SRC-004"
+    ]
+  },
+  {
+    "id": "L1-EV-003",
+    "qualification": "NOUVEAU",
+    "type": "fait établi",
+    "claim": "Opcore est identifié comme membre de l'écosystème élargi du consortium AION candidat à une AI Gigafactory européenne en France.",
+    "verbatim": "AION pourra également s’appuyer sur un écosystème élargi... parmi lesquels... Opcore.",
+    "sourceIds": [
+      "L1-SRC-009",
+      "L1-SRC-011",
+      "L1-SRC-012",
+      "L1-SRC-013"
+    ],
+    "certainty": "Haute",
+    "text": "Opcore est identifié comme membre de l'écosystème élargi du consortium AION candidat à une AI Gigafactory européenne en France. « AION pourra également s’appuyer sur un écosystème élargi... parmi lesquels... Opcore. »",
+    "source_ids": [
+      "L1-SRC-009",
+      "L1-SRC-011",
+      "L1-SRC-012",
+      "L1-SRC-013"
+    ]
+  },
+  {
+    "id": "L1-EV-004",
+    "qualification": "SOCLE",
+    "type": "fait établi",
+    "claim": "Le consortium AION est piloté par Ardian, Artefact, Bull, Capgemini, EDF, iliad, Orange et Scaleway et vise une infrastructure IA européenne souveraine en France.",
+    "verbatim": "unissent leurs expertises au sein du consortium AION pour porter une candidature française ambitieuse.",
+    "sourceIds": [
+      "L1-SRC-009",
+      "L1-SRC-011",
+      "L1-SRC-013"
+    ],
+    "certainty": "Haute",
+    "text": "Le consortium AION est piloté par Ardian, Artefact, Bull, Capgemini, EDF, iliad, Orange et Scaleway et vise une infrastructure IA européenne souveraine en France. « unissent leurs expertises au sein du consortium AION pour porter une candidature française ambitieuse. »",
+    "source_ids": [
+      "L1-SRC-009",
+      "L1-SRC-011",
+      "L1-SRC-013"
+    ]
+  },
+  {
+    "id": "L1-EV-005",
+    "qualification": "ÉVOLUTION",
+    "type": "fait rapporté",
+    "claim": "Le projet Opcore de Montereau figure parmi les grands projets stratégiques accélérés et les sites bénéficiant du fast track.",
+    "verbatim": "On compte aussi quelques centres de données, MGX et Opcore en Seine-et-Marne.",
+    "sourceIds": [
+      "L1-SRC-001",
+      "L1-SRC-015",
+      "L1-SRC-018",
+      "L1-SRC-019"
+    ],
+    "certainty": "Moyenne",
+    "text": "Le projet Opcore de Montereau figure parmi les grands projets stratégiques accélérés et les sites bénéficiant du fast track. « On compte aussi quelques centres de données, MGX et Opcore en Seine-et-Marne. »",
+    "source_ids": [
+      "L1-SRC-001",
+      "L1-SRC-015",
+      "L1-SRC-018",
+      "L1-SRC-019"
+    ]
+  },
+  {
+    "id": "L1-EV-006",
+    "qualification": "NOUVEAU",
+    "type": "analyse documentée",
+    "claim": "Le débat public se déplace vers la priorisation de l'électricité et de la puissance de calcul au bénéfice d'acteurs français ou européens.",
+    "verbatim": "réserver de l’ordre de 20% des capacités aux acteurs européens.",
+    "sourceIds": [
+      "L1-SRC-006",
+      "L1-SRC-008",
+      "L1-SRC-014"
+    ],
+    "certainty": "Haute",
+    "text": "Le débat public se déplace vers la priorisation de l'électricité et de la puissance de calcul au bénéfice d'acteurs français ou européens. « réserver de l’ordre de 20% des capacités aux acteurs européens. »",
+    "source_ids": [
+      "L1-SRC-006",
+      "L1-SRC-008",
+      "L1-SRC-014"
+    ]
+  },
+  {
+    "id": "L1-EV-007",
+    "qualification": "ÉVOLUTION",
+    "type": "fait rapporté",
+    "claim": "La pression nationale sur le raccordement augmente fortement, avec près de 18 GW réservés pour environ 80 projets en mai 2026 selon RTE cité par la presse.",
+    "verbatim": "RTE... said it had reserved close to 18 gigawatts of grid capacity for around 80 data centre projects.",
+    "sourceIds": [
+      "L1-SRC-001",
+      "L1-SRC-002"
+    ],
+    "certainty": "Moyenne",
+    "text": "La pression nationale sur le raccordement augmente fortement, avec près de 18 GW réservés pour environ 80 projets en mai 2026 selon RTE cité par la presse. « RTE... said it had reserved close to 18 gigawatts of grid capacity for around 80 data centre projects. »",
+    "source_ids": [
+      "L1-SRC-001",
+      "L1-SRC-002"
+    ]
+  },
+  {
+    "id": "L1-EV-008",
+    "qualification": "NOUVEAU",
+    "type": "fait établi",
+    "claim": "Une opposition organisée et des recours se développent contre plusieurs projets de datacenters en France, sans opposition locale spécifique à Montereau démontrée dans ce corpus.",
+    "verbatim": "Opposition to many of these sites is growing, with local collectives forming.",
+    "sourceIds": [
+      "L1-SRC-001",
+      "L1-SRC-002",
+      "L1-SRC-008"
+    ],
+    "certainty": "Haute",
+    "text": "Une opposition organisée et des recours se développent contre plusieurs projets de datacenters en France, sans opposition locale spécifique à Montereau démontrée dans ce corpus. « Opposition to many of these sites is growing, with local collectives forming. »",
+    "source_ids": [
+      "L1-SRC-001",
+      "L1-SRC-002",
+      "L1-SRC-008"
+    ]
+  },
+  {
+    "id": "L1-EV-009",
+    "qualification": "CONFIRMATION",
+    "type": "fait rapporté",
+    "claim": "Opcore exploiterait environ 82 MW de capacité existante en France selon une cartographie sectorielle secondaire.",
+    "verbatim": "les filiales Opcore (82 MW) et Freepro (14 MW) du groupe français Iliad.",
+    "sourceIds": [
+      "L1-SRC-014"
+    ],
+    "certainty": "Moyenne",
+    "text": "Opcore exploiterait environ 82 MW de capacité existante en France selon une cartographie sectorielle secondaire. « les filiales Opcore (82 MW) et Freepro (14 MW) du groupe français Iliad. »",
+    "source_ids": [
+      "L1-SRC-014"
+    ]
+  },
+  {
+    "id": "L1-EV-010",
+    "qualification": "NOUVEAU",
+    "type": "fait établi",
+    "claim": "Aude Durand pilote au niveau d'iliad un périmètre comprenant l'IA, le cloud, les datacenters et Opcore.",
+    "verbatim": "Son périmètre s’élargit ensuite à Opcore, l’activité data centers, puis à l’ensemble de la stratégie en intelligence artificielle.",
+    "sourceIds": [
+      "L1-SRC-003"
+    ],
+    "certainty": "Moyenne",
+    "text": "Aude Durand pilote au niveau d'iliad un périmètre comprenant l'IA, le cloud, les datacenters et Opcore. « Son périmètre s’élargit ensuite à Opcore, l’activité data centers, puis à l’ensemble de la stratégie en intelligence artificielle. »",
+    "source_ids": [
+      "L1-SRC-003"
+    ]
+  },
+  {
+    "id": "L2-EV-001",
+    "qualification": "CONFIRMATION",
+    "type": "fait établi",
+    "claim": "Projet de Montereau annoncé à environ 4 milliards d'euros, sur 20,6 hectares, pour plusieurs centaines de MW, avec une première mise en service visée en 2027.",
+    "verbatim": "OpCore prévoit d’investir jusqu’à 4 Md€ pour créer un datacenter IA avec une mise en route des premiers services en 2027.",
+    "sources": [
+      "SRC-009",
+      "SRC-013",
+      "SRC-016",
+      "SRC-017",
+      "SRC-019",
+      "SRC-020"
+    ],
+    "certainty": "Haute",
+    "sourceIds": [
+      "L2-SRC-009",
+      "L2-SRC-013",
+      "L2-SRC-016",
+      "L2-SRC-017",
+      "L2-SRC-019",
+      "L2-SRC-020"
+    ],
+    "text": "Projet de Montereau annoncé à environ 4 milliards d'euros, sur 20,6 hectares, pour plusieurs centaines de MW, avec une première mise en service visée en 2027. « OpCore prévoit d’investir jusqu’à 4 Md€ pour créer un datacenter IA avec une mise en route des premiers services en 2027. »",
+    "source_ids": [
+      "L2-SRC-009",
+      "L2-SRC-013",
+      "L2-SRC-016",
+      "L2-SRC-017",
+      "L2-SRC-019",
+      "L2-SRC-020"
+    ]
+  },
+  {
+    "id": "L2-EV-002",
+    "qualification": "ÉVOLUTION",
+    "type": "fait établi",
+    "claim": "Montereau figure parmi cinq sites nationaux priorisés pour un raccordement supérieur à 700 MW et parmi 26 sites sécurisés par un porteur.",
+    "verbatim": "5 sont priorisés (fast track) pour obtenir un raccordement électrique supérieur à 700 MW d’ici trois à quatre ans.",
+    "sources": [
+      "SRC-001",
+      "SRC-002"
+    ],
+    "certainty": "Haute",
+    "sourceIds": [
+      "L2-SRC-001",
+      "L2-SRC-002"
+    ],
+    "text": "Montereau figure parmi cinq sites nationaux priorisés pour un raccordement supérieur à 700 MW et parmi 26 sites sécurisés par un porteur. « 5 sont priorisés (fast track) pour obtenir un raccordement électrique supérieur à 700 MW d’ici trois à quatre ans. »",
+    "source_ids": [
+      "L2-SRC-001",
+      "L2-SRC-002"
+    ]
+  },
+  {
+    "id": "L2-EV-003",
+    "qualification": "ÉVOLUTION",
+    "type": "contradiction documentée",
+    "claim": "Le statut contractuel EDF-Opcore est décrit soit comme des contrats signés, soit comme des négociations exclusives.",
+    "verbatim": "Après avoir signé des contrats avec OpCore... / ouverture de négociations exclusives en vue de développer un centre de données.",
+    "sources": [
+      "SRC-004",
+      "SRC-007",
+      "SRC-010",
+      "SRC-017"
+    ],
+    "certainty": "Moyenne",
+    "sourceIds": [
+      "L2-SRC-004",
+      "L2-SRC-007",
+      "L2-SRC-010",
+      "L2-SRC-017"
+    ],
+    "text": "Le statut contractuel EDF-Opcore est décrit soit comme des contrats signés, soit comme des négociations exclusives. « Après avoir signé des contrats avec OpCore... / ouverture de négociations exclusives en vue de développer un centre de données. »",
+    "source_ids": [
+      "L2-SRC-004",
+      "L2-SRC-007",
+      "L2-SRC-010",
+      "L2-SRC-017"
+    ]
+  },
+  {
+    "id": "L2-EV-004",
+    "qualification": "NOUVEAU",
+    "type": "position déclarée",
+    "claim": "Opcore envisage comme usages les données d'industriels français, les capacités de calcul et les grands fournisseurs américains de cloud.",
+    "verbatim": "Celles d’industriels français, des puissances de calcul, des grands providers de clouds américains.",
+    "sources": [
+      "SRC-016"
+    ],
+    "certainty": "Haute",
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "text": "Opcore envisage comme usages les données d'industriels français, les capacités de calcul et les grands fournisseurs américains de cloud. « Celles d’industriels français, des puissances de calcul, des grands providers de clouds américains. »",
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "L2-EV-005",
+    "qualification": "NOUVEAU",
+    "type": "position déclarée",
+    "claim": "Opcore annonce l'absence de consommation d'eau hors sanitaires, des espaces végétalisés, une hauteur limitée à 10 m et une construction modulaire acheminée par la Seine.",
+    "verbatim": "pas de consommation d’eau (hormis les sanitaires), utilisation d’une électricité déjà décarbonée, espace végétalisé... construction limitée à 10 m de haut.",
+    "sources": [
+      "SRC-016"
+    ],
+    "certainty": "Haute",
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "text": "Opcore annonce l'absence de consommation d'eau hors sanitaires, des espaces végétalisés, une hauteur limitée à 10 m et une construction modulaire acheminée par la Seine. « pas de consommation d’eau (hormis les sanitaires), utilisation d’une électricité déjà décarbonée, espace végétalisé... construction limitée à 10 m de haut. »",
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "L2-EV-006",
+    "qualification": "NOUVEAU",
+    "type": "position déclarée",
+    "claim": "Environ 100 emplois directs et plusieurs centaines d'emplois indirects sont annoncés.",
+    "verbatim": "la création d’une centaine d’emplois directs et plusieurs centaines d’emplois indirects.",
+    "sources": [
+      "SRC-016"
+    ],
+    "certainty": "Moyenne",
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "text": "Environ 100 emplois directs et plusieurs centaines d'emplois indirects sont annoncés. « la création d’une centaine d’emplois directs et plusieurs centaines d’emplois indirects. »",
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "L2-EV-007",
+    "qualification": "ÉVOLUTION",
+    "type": "fait établi",
+    "claim": "L'État structure une task force DGE-Business France-RTE et un programme de 63 sites, dont 26 sécurisés.",
+    "verbatim": "une task force associant la DGE à Business France et à RTE... identification de 63 sites favorables.",
+    "sources": [
+      "SRC-001",
+      "SRC-002",
+      "SRC-007",
+      "SRC-008",
+      "SRC-010"
+    ],
+    "certainty": "Haute",
+    "sourceIds": [
+      "L2-SRC-001",
+      "L2-SRC-002",
+      "L2-SRC-007",
+      "L2-SRC-008",
+      "L2-SRC-010"
+    ],
+    "text": "L'État structure une task force DGE-Business France-RTE et un programme de 63 sites, dont 26 sécurisés. « une task force associant la DGE à Business France et à RTE... identification de 63 sites favorables. »",
+    "source_ids": [
+      "L2-SRC-001",
+      "L2-SRC-002",
+      "L2-SRC-007",
+      "L2-SRC-008",
+      "L2-SRC-010"
+    ]
+  },
+  {
+    "id": "L2-EV-008",
+    "qualification": "NOUVEAU",
+    "type": "position déclarée",
+    "claim": "Une contestation sectorielle organisée documente les impacts des datacenters et appelle à lutter contre leur développement.",
+    "verbatim": "Ralentir la machine, ça peut commencer par lutter contre les data centers près de chez soi.",
+    "sources": [
+      "SRC-003",
+      "SRC-005"
+    ],
+    "certainty": "Haute",
+    "sourceIds": [
+      "L2-SRC-003",
+      "L2-SRC-005"
+    ],
+    "text": "Une contestation sectorielle organisée documente les impacts des datacenters et appelle à lutter contre leur développement. « Ralentir la machine, ça peut commencer par lutter contre les data centers près de chez soi. »",
+    "source_ids": [
+      "L2-SRC-003",
+      "L2-SRC-005"
+    ]
+  },
+  {
+    "id": "L3-EV-001",
+    "qualification": "SOCLE",
+    "type": "fait établi",
+    "claim": "Opcore est détenue à 50 % par iliad et à 50 % par InfraVia après finalisation de la transaction début avril 2025.",
+    "verbatim": "Le Groupe a cédé à InfraVia 50% du capital d’OpCore.",
+    "sourceIds": [
+      "L3-SRC-011",
+      "L3-SRC-012"
+    ],
+    "certainty": "Haute",
+    "text": "Opcore est détenue à 50 % par iliad et à 50 % par InfraVia après finalisation de la transaction début avril 2025. « Le Groupe a cédé à InfraVia 50% du capital d’OpCore. »",
+    "source_ids": [
+      "L3-SRC-011",
+      "L3-SRC-012"
+    ]
+  },
+  {
+    "id": "L3-EV-002",
+    "qualification": "ÉVOLUTION",
+    "type": "fait établi",
+    "claim": "Le projet de Montereau change l'échelle d'Opcore avec jusqu'à 700 MW, environ 20 à 20,6 ha et près de 4 Md€ annoncés.",
+    "verbatim": "Sur 20ha et avec une capacité autorisée jusqu’à 700 MW.",
+    "sourceIds": [
+      "L3-SRC-001",
+      "L3-SRC-002",
+      "L3-SRC-004",
+      "L3-SRC-005",
+      "L3-SRC-006"
+    ],
+    "certainty": "Haute",
+    "text": "Le projet de Montereau change l'échelle d'Opcore avec jusqu'à 700 MW, environ 20 à 20,6 ha et près de 4 Md€ annoncés. « Sur 20ha et avec une capacité autorisée jusqu’à 700 MW. »",
+    "source_ids": [
+      "L3-SRC-001",
+      "L3-SRC-002",
+      "L3-SRC-004",
+      "L3-SRC-005",
+      "L3-SRC-006"
+    ]
+  },
+  {
+    "id": "L3-EV-003",
+    "qualification": "ÉVOLUTION",
+    "type": "fait établi avec réserve contractuelle",
+    "claim": "EDF a sélectionné Opcore après AMI; des négociations exclusives sont encore rapportées en novembre 2025.",
+    "verbatim": "OpCore... annoncent l’ouverture de négociations exclusives.",
+    "sourceIds": [
+      "L3-SRC-002",
+      "L3-SRC-004",
+      "L3-SRC-006",
+      "L3-SRC-007"
+    ],
+    "certainty": "Haute",
+    "text": "EDF a sélectionné Opcore après AMI; des négociations exclusives sont encore rapportées en novembre 2025. « OpCore... annoncent l’ouverture de négociations exclusives. »",
+    "source_ids": [
+      "L3-SRC-002",
+      "L3-SRC-004",
+      "L3-SRC-006",
+      "L3-SRC-007"
+    ]
+  },
+  {
+    "id": "L3-EV-004",
+    "qualification": "SOCLE",
+    "type": "fait établi",
+    "claim": "EDF propose foncier, accompagnement et offres d'électricité et services sur mesure aux opérateurs sélectionnés.",
+    "verbatim": "EDF propose également un accompagnement personnalisé couvrant l’ensemble des démarches.",
+    "sourceIds": [
+      "L3-SRC-004"
+    ],
+    "certainty": "Haute",
+    "text": "EDF propose foncier, accompagnement et offres d'électricité et services sur mesure aux opérateurs sélectionnés. « EDF propose également un accompagnement personnalisé couvrant l’ensemble des démarches. »",
+    "source_ids": [
+      "L3-SRC-004"
+    ]
+  },
+  {
+    "id": "L3-EV-005",
+    "qualification": "SOCLE",
+    "type": "fait établi",
+    "claim": "Le projet figure parmi les sites éligibles au dispositif fast track de RTE.",
+    "verbatim": "Ce dernier figure parmi les quatre projets en France bénéficiant du dispositif fast track.",
+    "sourceIds": [
+      "L3-SRC-004",
+      "L3-SRC-005",
+      "L3-SRC-006",
+      "L3-SRC-008"
+    ],
+    "certainty": "Haute",
+    "text": "Le projet figure parmi les sites éligibles au dispositif fast track de RTE. « Ce dernier figure parmi les quatre projets en France bénéficiant du dispositif fast track. »",
+    "source_ids": [
+      "L3-SRC-004",
+      "L3-SRC-005",
+      "L3-SRC-006",
+      "L3-SRC-008"
+    ]
+  },
+  {
+    "id": "L3-EV-006",
+    "qualification": "NOUVEAU",
+    "type": "position déclarée",
+    "claim": "Près de 4 Md€, une mise en service en 2027 et plusieurs centaines d'emplois sont annoncés.",
+    "verbatim": "Sa mise en service est attendue en 2027.",
+    "sourceIds": [
+      "L3-SRC-001",
+      "L3-SRC-002"
+    ],
+    "certainty": "Haute pour l'annonce",
+    "text": "Près de 4 Md€, une mise en service en 2027 et plusieurs centaines d'emplois sont annoncés. « Sa mise en service est attendue en 2027. »",
+    "source_ids": [
+      "L3-SRC-001",
+      "L3-SRC-002"
+    ]
+  },
+  {
+    "id": "L3-EV-007",
+    "qualification": "SOCLE",
+    "type": "fait établi",
+    "claim": "Scaleway opère dans des centres de données Opcore.",
+    "verbatim": "Scaleway, qui opère aujourd’hui dans les data centers du français Opcore.",
+    "sourceIds": [
+      "L3-SRC-008"
+    ],
+    "certainty": "Haute",
+    "text": "Scaleway opère dans des centres de données Opcore. « Scaleway, qui opère aujourd’hui dans les data centers du français Opcore. »",
+    "source_ids": [
+      "L3-SRC-008"
+    ]
+  }
+]

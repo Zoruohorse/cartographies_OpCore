@@ -1,0 +1,1247 @@
+[
+  {
+    "id": "actor_0001",
+    "name": "Opcore",
+    "roles": [
+      "Opérateur de datacenters et porteur de Montereau",
+      "Porteur et futur exploitant annoncé",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Opcore / Direction"
+    ],
+    "evidenceIds": [
+      "L1-EV-001",
+      "L1-EV-003",
+      "L2-EV-001"
+    ],
+    "sourceIds": [
+      "L2-SRC-001"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 5,
+    "intensity": 5,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Opcore",
+    "description": "Opérateur de datacenters et porteur de Montereau · Porteur et futur exploitant annoncé"
+  },
+  {
+    "id": "actor_0002",
+    "name": "Groupe iliad",
+    "roles": [
+      "Maison mère et pilote de la stratégie IA",
+      "Coactionnaire d'Opcore",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Actionnaire / Investisseur"
+    ],
+    "evidenceIds": [
+      "L1-EV-001",
+      "L1-EV-004",
+      "L2-EV-001"
+    ],
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 5,
+    "intensity": 5,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Groupe iliad",
+    "description": "Maison mère et pilote de la stratégie IA · Coactionnaire d'Opcore"
+  },
+  {
+    "id": "actor_0003",
+    "name": "InfraVia Capital Partners",
+    "roles": [
+      "Coactionnaire d'Opcore",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Actionnaire / Investisseur"
+    ],
+    "evidenceIds": [
+      "L1-EV-001",
+      "L2-EV-001"
+    ],
+    "sourceIds": [
+      "L2-SRC-013"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 5,
+    "intensity": 5,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "InfraVia Capital Partners",
+    "description": "Coactionnaire d'Opcore"
+  },
+  {
+    "id": "actor_0004",
+    "name": "EDF",
+    "roles": [
+      "Propriétaire du site et partenaire de Montereau; membre d'AION",
+      "Propriétaire du foncier et partenaire industriel",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Énergie / Réseau"
+    ],
+    "evidenceIds": [
+      "L1-EV-001",
+      "L1-EV-004",
+      "L2-EV-003"
+    ],
+    "sourceIds": [
+      "L2-SRC-004"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 5,
+    "intensity": 5,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "EDF",
+    "description": "Propriétaire du site et partenaire de Montereau; membre d'AION · Propriétaire du foncier et partenaire industriel"
+  },
+  {
+    "id": "actor_0005",
+    "name": "RTE",
+    "roles": [
+      "Gestionnaire du réseau et du fast track",
+      "Gestionnaire du réseau de transport",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Énergie / Réseau"
+    ],
+    "evidenceIds": [
+      "L1-EV-005",
+      "L1-EV-007",
+      "L2-EV-002"
+    ],
+    "sourceIds": [
+      "L2-SRC-001"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "non déterminée",
+    "importance": 5,
+    "intensity": 4,
+    "latestEvolution": "2025",
+    "certainty": "Moyenne",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau et du fast track · Gestionnaire du réseau de transport"
+  },
+  {
+    "id": "actor_0006",
+    "name": "Thomas Reynaud",
+    "roles": [
+      "DG du groupe iliad cité sur Montereau et AION"
+    ],
+    "categories": [
+      "Opcore / Direction"
+    ],
+    "evidenceIds": [
+      "L1-EV-002",
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "DG du groupe iliad cité sur Montereau et AION",
+    "relation": "Soutien et demande d'accélération",
+    "position": "favorable",
+    "importance": 5,
+    "intensity": 5,
+    "latestEvolution": "Critique des délais administratifs",
+    "certainty": "Haute",
+    "short_name": "Thomas Reynaud",
+    "description": "DG du groupe iliad cité sur Montereau et AION"
+  },
+  {
+    "id": "actor_0007",
+    "name": "Aude Durand",
+    "roles": [
+      "Directrice générale déléguée d'iliad, périmètre IA-cloud-datacenters"
+    ],
+    "categories": [
+      "Opcore / Direction"
+    ],
+    "evidenceIds": [
+      "L1-EV-010"
+    ],
+    "sourceIds": [],
+    "role": "Directrice générale déléguée d'iliad, périmètre IA-cloud-datacenters",
+    "relation": "Pilotage stratégique indirect d'Opcore",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 4,
+    "latestEvolution": "Offensive IA d'iliad",
+    "certainty": "Moyenne",
+    "short_name": "Aude Durand",
+    "description": "Directrice générale déléguée d'iliad, périmètre IA-cloud-datacenters"
+  },
+  {
+    "id": "actor_0008",
+    "name": "Scaleway",
+    "roles": [
+      "Filiale cloud d'iliad et membre fondateur d'AION",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Client / Partenaire commercial"
+    ],
+    "evidenceIds": [
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 4,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Scaleway",
+    "description": "Filiale cloud d'iliad et membre fondateur d'AION"
+  },
+  {
+    "id": "actor_0009",
+    "name": "Ardian",
+    "roles": [
+      "Coprésente et expertise financière dans AION"
+    ],
+    "categories": [
+      "Financeur"
+    ],
+    "evidenceIds": [
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "Coprésente et expertise financière dans AION",
+    "relation": "Coopération au sein d'AION",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "AION",
+    "certainty": "Haute",
+    "short_name": "Ardian",
+    "description": "Coprésente et expertise financière dans AION"
+  },
+  {
+    "id": "actor_0010",
+    "name": "Orange",
+    "roles": [
+      "Membre fondateur d'AION"
+    ],
+    "categories": [
+      "Partenaire industriel / Technologique"
+    ],
+    "evidenceIds": [
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "Membre fondateur d'AION",
+    "relation": "Coopération technologique",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "AION",
+    "certainty": "Haute",
+    "short_name": "Orange",
+    "description": "Membre fondateur d'AION"
+  },
+  {
+    "id": "actor_0011",
+    "name": "Capgemini",
+    "roles": [
+      "Membre fondateur d'AION"
+    ],
+    "categories": [
+      "Partenaire industriel / Technologique"
+    ],
+    "evidenceIds": [
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "Membre fondateur d'AION",
+    "relation": "Intégration et déploiement IA",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "AION",
+    "certainty": "Haute",
+    "short_name": "Capgemini",
+    "description": "Membre fondateur d'AION"
+  },
+  {
+    "id": "actor_0012",
+    "name": "Bull",
+    "roles": [
+      "Membre fondateur d'AION"
+    ],
+    "categories": [
+      "Partenaire industriel / Technologique"
+    ],
+    "evidenceIds": [
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "Membre fondateur d'AION",
+    "relation": "Supercalculateurs et chaîne européenne",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "AION",
+    "certainty": "Haute",
+    "short_name": "Bull",
+    "description": "Membre fondateur d'AION"
+  },
+  {
+    "id": "actor_0013",
+    "name": "Artefact",
+    "roles": [
+      "Membre fondateur d'AION"
+    ],
+    "categories": [
+      "Expert / Conseil"
+    ],
+    "evidenceIds": [
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "Membre fondateur d'AION",
+    "relation": "Data, IA et cas d'usage",
+    "position": "favorable",
+    "importance": 3,
+    "intensity": 3,
+    "latestEvolution": "AION",
+    "certainty": "Haute",
+    "short_name": "Artefact",
+    "description": "Membre fondateur d'AION"
+  },
+  {
+    "id": "actor_0014",
+    "name": "État français",
+    "roles": [
+      "Facilitation des projets stratégiques et fast track",
+      "Politique d'accueil des datacenters",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [
+      "L1-EV-005",
+      "L2-EV-007"
+    ],
+    "sourceIds": [
+      "L2-SRC-001"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 5,
+    "intensity": 3,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "État français",
+    "description": "Facilitation des projets stratégiques et fast track · Politique d'accueil des datacenters"
+  },
+  {
+    "id": "actor_0015",
+    "name": "Direction générale des entreprises",
+    "roles": [
+      "Pilote la task force nationale",
+      "Pilote le guide et la task force"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [
+      "L1-EV-005",
+      "L2-EV-007"
+    ],
+    "sourceIds": [
+      "L2-SRC-010"
+    ],
+    "role": "Pilote le guide et la task force",
+    "relation": "Accompagnement et doctrine d'implantation",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "Guide de sélection publié",
+    "certainty": "Haute",
+    "short_name": "Direction générale des entreprises",
+    "description": "Pilote la task force nationale · Pilote le guide et la task force"
+  },
+  {
+    "id": "actor_0016",
+    "name": "Business France",
+    "roles": [
+      "Membre de la task force et doctrine territoriale",
+      "Accompagne les porteurs étrangers"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [
+      "L1-EV-006",
+      "L2-EV-007"
+    ],
+    "sourceIds": [
+      "L2-SRC-001"
+    ],
+    "role": "Accompagne les porteurs étrangers",
+    "relation": "Membre de la task force nationale",
+    "position": "favorable",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "Participation aux rencontres des centres de données",
+    "certainty": "Haute",
+    "short_name": "Business France",
+    "description": "Membre de la task force et doctrine territoriale · Accompagne les porteurs étrangers"
+  },
+  {
+    "id": "actor_0017",
+    "name": "France Datacenter",
+    "roles": [
+      "Représentant sectoriel favorable à l'accélération",
+      "Fédération sectorielle"
+    ],
+    "categories": [
+      "Fédération / Association professionnelle"
+    ],
+    "evidenceIds": [
+      "L1-EV-002",
+      "L2-EV-001"
+    ],
+    "sourceIds": [
+      "L2-SRC-012"
+    ],
+    "role": "Fédération sectorielle",
+    "relation": "Soutien à la réalisation des projets",
+    "position": "favorable",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "Propose de fluidifier le dialogue",
+    "certainty": "Haute",
+    "short_name": "France Datacenter",
+    "description": "Représentant sectoriel favorable à l'accélération · Fédération sectorielle"
+  },
+  {
+    "id": "actor_0018",
+    "name": "Damien Lucas",
+    "roles": [
+      "DG de Scaleway, position sur souveraineté"
+    ],
+    "categories": [
+      "Opcore / Direction"
+    ],
+    "evidenceIds": [
+      "L1-EV-004",
+      "L1-EV-006"
+    ],
+    "sourceIds": [],
+    "role": "DG de Scaleway, position sur souveraineté",
+    "relation": "Position prudente sur souveraineté-washing",
+    "position": "prudente",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "AION et souveraineté",
+    "certainty": "Haute",
+    "short_name": "Damien Lucas",
+    "description": "DG de Scaleway, position sur souveraineté"
+  },
+  {
+    "id": "actor_0019",
+    "name": "Arthur Mensch",
+    "roles": [
+      "Dirigeant de Mistral AI, demande de contrôle européen de l'électricité"
+    ],
+    "categories": [
+      "Client / Partenaire commercial"
+    ],
+    "evidenceIds": [
+      "L1-EV-006"
+    ],
+    "sourceIds": [],
+    "role": "Dirigeant de Mistral AI, demande de contrôle européen de l'électricité",
+    "relation": "Relation sectorielle indirecte",
+    "position": "prudente",
+    "importance": 4,
+    "intensity": 1,
+    "latestEvolution": "Priorisation de l'électricité",
+    "certainty": "Haute",
+    "short_name": "Arthur Mensch",
+    "description": "Dirigeant de Mistral AI, demande de contrôle européen de l'électricité"
+  },
+  {
+    "id": "actor_0020",
+    "name": "Le Nuage était sous nos pieds",
+    "roles": [
+      "Collectif opposé au développement massif des datacenters",
+      "Collectif militant"
+    ],
+    "categories": [
+      "Association / Société civile"
+    ],
+    "evidenceIds": [
+      "L1-EV-008",
+      "L2-EV-008"
+    ],
+    "sourceIds": [
+      "L2-SRC-003"
+    ],
+    "role": "Collectif militant",
+    "relation": "Opposition sectorielle",
+    "position": "opposée",
+    "importance": 3,
+    "intensity": 1,
+    "latestEvolution": "Cartographie et appelle aux mobilisations",
+    "certainty": "Haute",
+    "short_name": "Le Nuage était sous nos pieds",
+    "description": "Collectif opposé au développement massif des datacenters · Collectif militant"
+  },
+  {
+    "id": "actor_0021",
+    "name": "France Nature Environnement",
+    "roles": [
+      "Association engagée dans des recours sur Fouju"
+    ],
+    "categories": [
+      "Association / Société civile"
+    ],
+    "evidenceIds": [
+      "L1-EV-008"
+    ],
+    "sourceIds": [],
+    "role": "Association engagée dans des recours sur Fouju",
+    "relation": "Opposition sectorielle indirecte",
+    "position": "opposée",
+    "importance": 3,
+    "intensity": 1,
+    "latestEvolution": "Impacts environnementaux",
+    "certainty": "Haute",
+    "short_name": "France Nature Environnement",
+    "description": "Association engagée dans des recours sur Fouju"
+  },
+  {
+    "id": "actor_0022",
+    "name": "Anne Le Hénanff",
+    "roles": [
+      "Ministre chargée de l'IA et du numérique",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [
+      "L1-EV-005",
+      "L2-EV-007"
+    ],
+    "sourceIds": [
+      "L2-SRC-001"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Anne Le Hénanff",
+    "description": "Ministre chargée de l'IA et du numérique"
+  },
+  {
+    "id": "actor_0023",
+    "name": "Commission européenne",
+    "roles": [
+      "Pilote le programme AI Gigafactories"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [
+      "L1-EV-004"
+    ],
+    "sourceIds": [],
+    "role": "Pilote le programme AI Gigafactories",
+    "relation": "Autorisation / financement européen potentiel",
+    "position": "favorable",
+    "importance": 5,
+    "intensity": 2,
+    "latestEvolution": "AION",
+    "certainty": "Haute",
+    "short_name": "Commission européenne",
+    "description": "Pilote le programme AI Gigafactories"
+  },
+  {
+    "id": "actor_0024",
+    "name": "La Grande-Paroisse",
+    "roles": [
+      "Commune d'implantation de Montereau",
+      "Commune d'implantation",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [
+      "L1-EV-001",
+      "L2-EV-001"
+    ],
+    "sourceIds": [
+      "L2-SRC-009"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 4,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "La Grande-Paroisse",
+    "description": "Commune d'implantation de Montereau · Commune d'implantation"
+  },
+  {
+    "id": "actor_0025",
+    "name": "Vernou-la-Celle-sur-Seine",
+    "roles": [
+      "Commune d'implantation de Montereau",
+      "Commune d'implantation",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [
+      "L1-EV-001",
+      "L2-EV-001"
+    ],
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 4,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Vernou-la-Celle-sur-Seine",
+    "description": "Commune d'implantation de Montereau · Commune d'implantation"
+  },
+  {
+    "id": "actor_0026",
+    "name": "Arnaud de Bermingham",
+    "roles": [
+      "Président d'Opcore cité"
+    ],
+    "categories": [
+      "Opcore / Direction"
+    ],
+    "evidenceIds": [
+      "L2-EV-005"
+    ],
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "role": "Président d'Opcore cité",
+    "relation": "Direction et communication",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": null,
+    "latestEvolution": "Garanties environnementales déclarées",
+    "certainty": "Haute",
+    "short_name": "Arnaud de Bermingham",
+    "description": "Président d'Opcore cité"
+  },
+  {
+    "id": "actor_0027",
+    "name": "Roland Lescure",
+    "roles": [
+      "Ministre de l'Économie cité",
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [
+      "L2-EV-007"
+    ],
+    "sourceIds": [
+      "L2-SRC-001"
+    ],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Roland Lescure",
+    "description": "Ministre de l'Économie cité"
+  },
+  {
+    "id": "actor_0028",
+    "name": "Alain Momon",
+    "roles": [
+      "Maire de Vernou-la-Celle-sur-Seine"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [
+      "L2-EV-005"
+    ],
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "role": "Maire de Vernou-la-Celle-sur-Seine",
+    "relation": "Attentes territoriales",
+    "position": "favorable",
+    "importance": 3,
+    "intensity": null,
+    "latestEvolution": "Intérêt pour la récupération de chaleur",
+    "certainty": "Haute",
+    "short_name": "Alain Momon",
+    "description": "Maire de Vernou-la-Celle-sur-Seine"
+  },
+  {
+    "id": "actor_0029",
+    "name": "Commission nationale du débat public",
+    "roles": [
+      "Coorganise un débat sectoriel"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [
+      "L2-EV-008"
+    ],
+    "sourceIds": [
+      "L2-SRC-014"
+    ],
+    "role": "Coorganise un débat sectoriel",
+    "relation": "Débat public",
+    "position": "prudente",
+    "importance": 3,
+    "intensity": null,
+    "latestEvolution": "Met en discussion l'encadrement territorial",
+    "certainty": "Moyenne",
+    "short_name": "Commission nationale du débat public",
+    "description": "Coorganise un débat sectoriel"
+  },
+  {
+    "id": "actor_0030",
+    "name": "Institut Paris Région",
+    "roles": [
+      "Observatoire francilien"
+    ],
+    "categories": [
+      "Expert / Conseil"
+    ],
+    "evidenceIds": [
+      "L2-EV-008"
+    ],
+    "sourceIds": [
+      "L2-SRC-014"
+    ],
+    "role": "Observatoire francilien",
+    "relation": "Expertise sectorielle",
+    "position": "prudente",
+    "importance": 3,
+    "intensity": null,
+    "latestEvolution": "Analyse la financiarisation du secteur",
+    "certainty": "Moyenne",
+    "short_name": "Institut Paris Région",
+    "description": "Observatoire francilien"
+  },
+  {
+    "id": "actor_0031",
+    "name": "Communauté d'agglomération Paris-Saclay",
+    "roles": [
+      "Collectivité exprimant un grief sectoriel"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [
+      "L2-EV-008"
+    ],
+    "sourceIds": [
+      "L2-SRC-014"
+    ],
+    "role": "Collectivité exprimant un grief sectoriel",
+    "relation": "Pas de relation directe avec Opcore",
+    "position": "critique",
+    "importance": 2,
+    "intensity": null,
+    "latestEvolution": "Demande davantage d'encadrement",
+    "certainty": "Haute",
+    "short_name": "Communauté d'agglomération Paris-Saclay",
+    "description": "Collectivité exprimant un grief sectoriel"
+  },
+  {
+    "id": "actor_0032",
+    "name": "Grand Paris Sud Seine-Essonne-Sénart",
+    "roles": [
+      "Collectivité préoccupée par le réseau"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [
+      "L2-EV-008"
+    ],
+    "sourceIds": [
+      "L2-SRC-014"
+    ],
+    "role": "Collectivité préoccupée par le réseau",
+    "relation": "Pas de relation directe avec Opcore",
+    "position": "prudente",
+    "importance": 2,
+    "intensity": null,
+    "latestEvolution": "Demande un accès non accaparé à l'électricité",
+    "certainty": "Haute",
+    "short_name": "Grand Paris Sud Seine-Essonne-Sénart",
+    "description": "Collectivité préoccupée par le réseau"
+  },
+  {
+    "id": "actor_0033",
+    "name": "Hyperscalers américains",
+    "roles": [
+      "Clients potentiels évoqués"
+    ],
+    "categories": [
+      "Client / Partenaire commercial"
+    ],
+    "evidenceIds": [
+      "L2-EV-004"
+    ],
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "role": "Clients potentiels évoqués",
+    "relation": "Relation commerciale potentielle",
+    "position": "non déterminée",
+    "importance": 4,
+    "intensity": null,
+    "latestEvolution": "Catégorie de clients citée par Thomas Reynaud",
+    "certainty": "Moyenne",
+    "short_name": "Hyperscalers américains",
+    "description": "Clients potentiels évoqués"
+  },
+  {
+    "id": "actor_0034",
+    "name": "Industriels français",
+    "roles": [
+      "Clients potentiels évoqués"
+    ],
+    "categories": [
+      "Client / Partenaire commercial"
+    ],
+    "evidenceIds": [
+      "L2-EV-004"
+    ],
+    "sourceIds": [
+      "L2-SRC-016"
+    ],
+    "role": "Clients potentiels évoqués",
+    "relation": "Relation commerciale potentielle",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": null,
+    "latestEvolution": "Données et calcul évoqués comme usages",
+    "certainty": "Moyenne",
+    "short_name": "Industriels français",
+    "description": "Clients potentiels évoqués"
+  },
+  {
+    "id": "actor_0035",
+    "name": "AWS",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Client / Partenaire commercial"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "non déterminée",
+    "importance": 4,
+    "intensity": 4,
+    "latestEvolution": "2025",
+    "certainty": "Moyenne",
+    "short_name": "AWS",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0036",
+    "name": "Aménagement 77",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Partenaire industriel / Technologique"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Aménagement 77",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0037",
+    "name": "Montereau-Fault-Yonne",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 3,
+    "intensity": 3,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Montereau-Fault-Yonne",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0038",
+    "name": "James Chéron",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "favorable",
+    "importance": 4,
+    "intensity": 3,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "James Chéron",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0039",
+    "name": "Arcep",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "neutre",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Haute",
+    "short_name": "Arcep",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0040",
+    "name": "Communautés de communes du bassin",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Collectivité territoriale"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Moyenne",
+    "short_name": "Communautés de communes du bassin",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0041",
+    "name": "CCI Seine-et-Marne",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Fédération / Association professionnelle"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "non déterminée",
+    "importance": 2,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Moyenne",
+    "short_name": "CCI Seine-et-Marne",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0042",
+    "name": "Medef Seine-et-Marne",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Fédération / Association professionnelle"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "non déterminée",
+    "importance": 2,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Moyenne",
+    "short_name": "Medef Seine-et-Marne",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0043",
+    "name": "Territoire d’Industrie Sud Seine-et-Marne",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "État / Administration"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Moyenne",
+    "short_name": "Territoire d’Industrie Sud Seine-et-Marne",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0044",
+    "name": "Club 18.14",
+    "roles": [
+      "Voir relations et preuves associées"
+    ],
+    "categories": [
+      "Fédération / Association professionnelle"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "role": "Voir relations et preuves associées",
+    "relation": "Lien démontré dans le corpus",
+    "position": "non déterminée",
+    "importance": 2,
+    "intensity": 2,
+    "latestEvolution": "2025",
+    "certainty": "Moyenne",
+    "short_name": "Club 18.14",
+    "description": "Voir relations et preuves associées"
+  },
+  {
+    "id": "actor_0045",
+    "name": "Projet Montereau",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "Projet Montereau",
+    "description": "Entité contextuelle"
+  },
+  {
+    "id": "actor_0046",
+    "name": "Consortium AION",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "Consortium AION",
+    "description": "Entité contextuelle"
+  },
+  {
+    "id": "actor_0047",
+    "name": "Politique des datacenters",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "Politique des datacenters",
+    "description": "Entité contextuelle"
+  },
+  {
+    "id": "actor_0048",
+    "name": "Porteurs de projets",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "Porteurs de projets",
+    "description": "Entité contextuelle"
+  },
+  {
+    "id": "actor_0049",
+    "name": "DGE et RTE",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "DGE et RTE",
+    "description": "Entité contextuelle"
+  },
+  {
+    "id": "actor_0050",
+    "name": "Projet Opcore",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "Projet Opcore",
+    "description": "Entité contextuelle"
+  },
+  {
+    "id": "actor_0051",
+    "name": "Développement des datacenters",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "Développement des datacenters",
+    "description": "Entité contextuelle"
+  },
+  {
+    "id": "actor_0052",
+    "name": "Collectivités",
+    "role": "Entité contextuelle",
+    "relation": "Relation documentée",
+    "position": "non déterminée",
+    "importance": 3,
+    "intensity": 2,
+    "latestEvolution": "",
+    "certainty": "Moyenne",
+    "roles": [
+      "Entité contextuelle"
+    ],
+    "categories": [
+      "Contexte / Projet"
+    ],
+    "evidenceIds": [],
+    "sourceIds": [],
+    "short_name": "Collectivités",
+    "description": "Entité contextuelle"
+  }
+]

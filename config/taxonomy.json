@@ -1,0 +1,158 @@
+{
+  "categories": {
+    "all": {
+      "label": "Tous les acteurs",
+      "color": "#64748b"
+    },
+    "Actionnaire / Investisseur": {
+      "label": "Actionnaire / Investisseur",
+      "color": "#312e81"
+    },
+    "Association / Société civile": {
+      "label": "Association / Société civile",
+      "color": "#10b981"
+    },
+    "Client / Partenaire commercial": {
+      "label": "Client / Partenaire commercial",
+      "color": "#312e81"
+    },
+    "Collectivité territoriale": {
+      "label": "Collectivité territoriale",
+      "color": "#2563eb"
+    },
+    "Contexte / Projet": {
+      "label": "Contexte / Projet",
+      "color": "#0f172a"
+    },
+    "Expert / Conseil": {
+      "label": "Expert / Conseil",
+      "color": "#8b5cf6"
+    },
+    "Financeur": {
+      "label": "Financeur",
+      "color": "#312e81"
+    },
+    "Fédération / Association professionnelle": {
+      "label": "Fédération / Association professionnelle",
+      "color": "#10b981"
+    },
+    "Opcore / Direction": {
+      "label": "Opcore / Direction",
+      "color": "#0f172a"
+    },
+    "Partenaire industriel / Technologique": {
+      "label": "Partenaire industriel / Technologique",
+      "color": "#312e81"
+    },
+    "Énergie / Réseau": {
+      "label": "Énergie / Réseau",
+      "color": "#312e81"
+    },
+    "État / Administration": {
+      "label": "État / Administration",
+      "color": "#2563eb"
+    }
+  },
+  "stances": {
+    "all": {
+      "label": "Toutes les positions",
+      "color": "#64748b"
+    },
+    "favorable": {
+      "label": "Favorable ou soutien",
+      "color": "#22c55e"
+    },
+    "prudente": {
+      "label": "Prudent ou ambigu",
+      "color": "#f59e0b"
+    },
+    "neutre": {
+      "label": "Neutre",
+      "color": "#64748b"
+    },
+    "non déterminée": {
+      "label": "Non déterminée",
+      "color": "#64748b"
+    },
+    "opposée": {
+      "label": "Opposé",
+      "color": "#ef4444"
+    },
+    "critique": {
+      "label": "Critique",
+      "color": "#ef4444"
+    }
+  },
+  "certainty_levels": {
+    "high": {
+      "label": "Haute"
+    },
+    "medium": {
+      "label": "Moyenne"
+    },
+    "low": {
+      "label": "Faible"
+    },
+    "unqualified": {
+      "label": "Non qualifiée"
+    }
+  },
+  "relation_types": {
+    "actionnariat": {
+      "label": "Actionnariat",
+      "directed": true
+    },
+    "négociation": {
+      "label": "Négociation",
+      "directed": true
+    },
+    "raccordement électrique": {
+      "label": "Raccordement électrique",
+      "directed": true
+    },
+    "implantation territoriale": {
+      "label": "Implantation territoriale",
+      "directed": true
+    },
+    "coopération": {
+      "label": "Coopération",
+      "directed": false
+    },
+    "soutien": {
+      "label": "Soutien",
+      "directed": true
+    },
+    "demande": {
+      "label": "Demande",
+      "directed": true
+    },
+    "opposition": {
+      "label": "Opposition",
+      "directed": true
+    },
+    "autorisation / réglementation": {
+      "label": "Autorisation / réglementation",
+      "directed": true
+    },
+    "relation institutionnelle": {
+      "label": "Relation institutionnelle",
+      "directed": true
+    },
+    "fourniture": {
+      "label": "Fourniture",
+      "directed": true
+    },
+    "client potentiel": {
+      "label": "Client potentiel",
+      "directed": true
+    },
+    "dépendance": {
+      "label": "Dépendance",
+      "directed": true
+    },
+    "client": {
+      "label": "Client",
+      "directed": true
+    }
+  }
+}

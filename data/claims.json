@@ -1,0 +1,757 @@
+[
+  {
+    "id": "claim_actor_0001",
+    "subject_id": "actor_0001",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-001",
+      "L1-EV-003",
+      "L2-EV-001"
+    ],
+    "source_ids": [
+      "L2-SRC-001"
+    ]
+  },
+  {
+    "id": "claim_actor_0002",
+    "subject_id": "actor_0002",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-001",
+      "L1-EV-004",
+      "L2-EV-001"
+    ],
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "claim_actor_0003",
+    "subject_id": "actor_0003",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-001",
+      "L2-EV-001"
+    ],
+    "source_ids": [
+      "L2-SRC-013"
+    ]
+  },
+  {
+    "id": "claim_actor_0004",
+    "subject_id": "actor_0004",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-001",
+      "L1-EV-004",
+      "L2-EV-003"
+    ],
+    "source_ids": [
+      "L2-SRC-004"
+    ]
+  },
+  {
+    "id": "claim_actor_0005",
+    "subject_id": "actor_0005",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "medium",
+    "evidence_ids": [
+      "L1-EV-005",
+      "L1-EV-007",
+      "L2-EV-002"
+    ],
+    "source_ids": [
+      "L2-SRC-001"
+    ]
+  },
+  {
+    "id": "claim_actor_0006",
+    "subject_id": "actor_0006",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutien et demande d'accélération",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-002",
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0007",
+    "subject_id": "actor_0007",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Pilotage stratégique indirect d'Opcore",
+    "certainty": "medium",
+    "evidence_ids": [
+      "L1-EV-010"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0008",
+    "subject_id": "actor_0008",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0009",
+    "subject_id": "actor_0009",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Coopération au sein d'AION",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0010",
+    "subject_id": "actor_0010",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Coopération technologique",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0011",
+    "subject_id": "actor_0011",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Intégration et déploiement IA",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0012",
+    "subject_id": "actor_0012",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Supercalculateurs et chaîne européenne",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0013",
+    "subject_id": "actor_0013",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Data, IA et cas d'usage",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0014",
+    "subject_id": "actor_0014",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-005",
+      "L2-EV-007"
+    ],
+    "source_ids": [
+      "L2-SRC-001"
+    ]
+  },
+  {
+    "id": "claim_actor_0015",
+    "subject_id": "actor_0015",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Accompagnement et doctrine d'implantation",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-005",
+      "L2-EV-007"
+    ],
+    "source_ids": [
+      "L2-SRC-010"
+    ]
+  },
+  {
+    "id": "claim_actor_0016",
+    "subject_id": "actor_0016",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Membre de la task force nationale",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-006",
+      "L2-EV-007"
+    ],
+    "source_ids": [
+      "L2-SRC-001"
+    ]
+  },
+  {
+    "id": "claim_actor_0017",
+    "subject_id": "actor_0017",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Soutien à la réalisation des projets",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-002",
+      "L2-EV-001"
+    ],
+    "source_ids": [
+      "L2-SRC-012"
+    ]
+  },
+  {
+    "id": "claim_actor_0018",
+    "subject_id": "actor_0018",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "prudente",
+    "summary": "Position prudente sur souveraineté-washing",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004",
+      "L1-EV-006"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0019",
+    "subject_id": "actor_0019",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "prudente",
+    "summary": "Relation sectorielle indirecte",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-006"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0020",
+    "subject_id": "actor_0020",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposée",
+    "summary": "Opposition sectorielle",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-008",
+      "L2-EV-008"
+    ],
+    "source_ids": [
+      "L2-SRC-003"
+    ]
+  },
+  {
+    "id": "claim_actor_0021",
+    "subject_id": "actor_0021",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "opposée",
+    "summary": "Opposition sectorielle indirecte",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-008"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0022",
+    "subject_id": "actor_0022",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-005",
+      "L2-EV-007"
+    ],
+    "source_ids": [
+      "L2-SRC-001"
+    ]
+  },
+  {
+    "id": "claim_actor_0023",
+    "subject_id": "actor_0023",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Autorisation / financement européen potentiel",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-004"
+    ],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0024",
+    "subject_id": "actor_0024",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-001",
+      "L2-EV-001"
+    ],
+    "source_ids": [
+      "L2-SRC-009"
+    ]
+  },
+  {
+    "id": "claim_actor_0025",
+    "subject_id": "actor_0025",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L1-EV-001",
+      "L2-EV-001"
+    ],
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "claim_actor_0026",
+    "subject_id": "actor_0026",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Direction et communication",
+    "certainty": "high",
+    "evidence_ids": [
+      "L2-EV-005"
+    ],
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "claim_actor_0027",
+    "subject_id": "actor_0027",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [
+      "L2-EV-007"
+    ],
+    "source_ids": [
+      "L2-SRC-001"
+    ]
+  },
+  {
+    "id": "claim_actor_0028",
+    "subject_id": "actor_0028",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Attentes territoriales",
+    "certainty": "high",
+    "evidence_ids": [
+      "L2-EV-005"
+    ],
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "claim_actor_0029",
+    "subject_id": "actor_0029",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "prudente",
+    "summary": "Débat public",
+    "certainty": "medium",
+    "evidence_ids": [
+      "L2-EV-008"
+    ],
+    "source_ids": [
+      "L2-SRC-014"
+    ]
+  },
+  {
+    "id": "claim_actor_0030",
+    "subject_id": "actor_0030",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "prudente",
+    "summary": "Expertise sectorielle",
+    "certainty": "medium",
+    "evidence_ids": [
+      "L2-EV-008"
+    ],
+    "source_ids": [
+      "L2-SRC-014"
+    ]
+  },
+  {
+    "id": "claim_actor_0031",
+    "subject_id": "actor_0031",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "critique",
+    "summary": "Pas de relation directe avec Opcore",
+    "certainty": "high",
+    "evidence_ids": [
+      "L2-EV-008"
+    ],
+    "source_ids": [
+      "L2-SRC-014"
+    ]
+  },
+  {
+    "id": "claim_actor_0032",
+    "subject_id": "actor_0032",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "prudente",
+    "summary": "Pas de relation directe avec Opcore",
+    "certainty": "high",
+    "evidence_ids": [
+      "L2-EV-008"
+    ],
+    "source_ids": [
+      "L2-SRC-014"
+    ]
+  },
+  {
+    "id": "claim_actor_0033",
+    "subject_id": "actor_0033",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation commerciale potentielle",
+    "certainty": "medium",
+    "evidence_ids": [
+      "L2-EV-004"
+    ],
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "claim_actor_0034",
+    "subject_id": "actor_0034",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation commerciale potentielle",
+    "certainty": "medium",
+    "evidence_ids": [
+      "L2-EV-004"
+    ],
+    "source_ids": [
+      "L2-SRC-016"
+    ]
+  },
+  {
+    "id": "claim_actor_0035",
+    "subject_id": "actor_0035",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0036",
+    "subject_id": "actor_0036",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0037",
+    "subject_id": "actor_0037",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0038",
+    "subject_id": "actor_0038",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "favorable",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0039",
+    "subject_id": "actor_0039",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "neutre",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "high",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0040",
+    "subject_id": "actor_0040",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0041",
+    "subject_id": "actor_0041",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0042",
+    "subject_id": "actor_0042",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0043",
+    "subject_id": "actor_0043",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0044",
+    "subject_id": "actor_0044",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Lien démontré dans le corpus",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0045",
+    "subject_id": "actor_0045",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0046",
+    "subject_id": "actor_0046",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0047",
+    "subject_id": "actor_0047",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0048",
+    "subject_id": "actor_0048",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0049",
+    "subject_id": "actor_0049",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0050",
+    "subject_id": "actor_0050",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0051",
+    "subject_id": "actor_0051",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  },
+  {
+    "id": "claim_actor_0052",
+    "subject_id": "actor_0052",
+    "project_id": "project_opcore",
+    "claim_type": "position",
+    "topic": "position_globale",
+    "value": "non déterminée",
+    "summary": "Relation documentée",
+    "certainty": "medium",
+    "evidence_ids": [],
+    "source_ids": []
+  }
+]
