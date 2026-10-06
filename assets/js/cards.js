@@ -1,1 +1,48 @@
-(async()=>{const d=await loadData();let cat="all",q="";const ev=new Map(d.evidence.map(x=>[x.id,x])),src=new Map(d.sources.map(x=>[x.id,x]));function renderFilters(){filters.innerHTML=`<button class="filter ${cat==='all'?'active':''}" data-c="all">Tous</button>`+Object.keys(d.taxonomy.categories).map(c=>`<button class="filter ${cat===c?'active':''}" data-c="${esc(c)}">${esc(c)}</button>`).join("")}function render(){const a=d.actors.filter(x=>(cat==='all'||x.categories.includes(cat))&&(!q||norm(JSON.stringify(x)).includes(q)));count.textContent=`${a.length} acteurs affichés sur ${d.actors.length}`;grid.innerHTML=a.map(x=>`<article class="card" data-id="${x.id}" style="--color:${d.taxonomy.stances[x.position]||'#64748b'}"><h3>${esc(x.name)}</h3><small>${esc(x.role)}</small><p>${esc(x.relation)}</p><span class="badge">${esc(x.position)}</span> · Certitude ${esc(x.certainty)}</article>`).join('')}function open(id){const a=d.actors.find(x=>x.id===id),rs=d.relations.filter(r=>r.source_id===id||r.target_id===id);detail.innerHTML=`<h2>${esc(a.name)}</h2><p><b>Rôle :</b> ${esc(a.role)}</p><p><b>Position :</b> ${esc(a.position)}</p><p><b>Dernière évolution :</b> ${esc(a.latestEvolution)}</p><h3>Preuves</h3>${a.evidenceIds.map(id=>`<div class="vig">${esc(ev.get(id)?.claim||id)}<br><small>${esc(ev.get(id)?.verbatim||'')}</small></div>`).join('')||'Aucune preuve directement rattachée'}<h3>Relations</h3>${rs.map(r=>`<div class="rel">${esc(d.actors.find(x=>x.id===(r.source_id===id?r.target_id:r.source_id))?.name)} · ${esc(r.type)}<br>${esc(r.summary)}</div>`).join('')}`;modal.showModal()}dyn.innerHTML=d.meta.dynamics.map(x=>`<article class="dynamic"><h3>${esc(x.title)}</h3><p>${esc(x.evolution)}</p><small>${esc(x.period)}</small></article>`).join('');vigs.innerHTML=d.meta.vigilance.map(x=>`<article class="vig"><b>${esc(x.subject)}</b><p>${esc(x.uncertainty)}</p><small>Importance ${x.importance}/5 · ${esc(x.availableElements)}</small></article>`).join('');srcs.innerHTML=d.sources.map(x=>`<article class="source"><b>${esc(x.publisher)} · ${esc(x.date)}</b><p>${esc(x.title)}</p><a href="${x.url}" target="_blank" rel="noopener">Ouvrir la source</a></article>`).join('');document.onclick=e=>{const t=e.target.closest('[data-tab]'),f=e.target.closest('[data-c]'),c=e.target.closest('.card');if(t){document.querySelectorAll('nav button,.tab').forEach(x=>x.classList.remove('active'));t.classList.add('active');document.getElementById(t.dataset.tab).classList.add('active')}if(f){cat=f.dataset.c;renderFilters();render()}if(c)open(c.dataset.id)};search.oninput=e=>{q=norm(e.target.value);render()};reset.onclick=()=>{cat='all';q='';search.value='';renderFilters();render()};close.onclick=()=>modal.close();renderFilters();render()})();
+import{loadRepository,esc,norm,evidenceHtml}from'./data-loader.js';
+
+const d=await loadRepository();
+let cat='all',stance='all',q='';
+
+document.getElementById('title').textContent=d.meta.title;
+document.getElementById('subtitle').textContent=d.meta.subtitle;
+document.getElementById('notice').textContent=d.meta.data_notice||'';
+const stanceColor=s=>d.taxonomy.stances[s]||'#64748b';
+
+function filters(){
+    document.getElementById('categories').innerHTML=`<button class="filter ${cat==='all'?'active':''}" data-cat="all"><span>Tous les acteurs</span><b>${d.actors.length}</b></button>`+Object.entries(d.taxonomy.categories).map(([k,v])=>`<button class="filter ${cat===k?'active':''}" data-cat="${k}"><span>${esc(v.label||k)}</span><b>${d.actors.filter(a=>a.categories.includes(k)).length}</b></button>`).join('');
+    document.getElementById('stances').innerHTML=`<button class="filter ${stance==='all'?'active':''}" data-stance="all"><span>Toutes les positions</span><b>${d.actors.length}</b></button>`+Object.entries(d.taxonomy.stances).map(([k,color])=>`<button class="filter ${stance===k?'active':''}" data-stance="${k}"><span>${esc(k)}</span><b>${d.actors.filter(a=>a.position===k).length}</b></button>`).join('');
+}
+
+function render(){
+    const list=d.actors.filter(a=>{
+        const text=norm([a.name,a.role,a.relation].join(' '));
+        return (cat==='all'||a.categories.includes(cat))&&(stance==='all'||a.position===stance)&&(!q||text.includes(q));
+    });
+    document.getElementById('count').textContent=`${list.length} acteurs affichés sur ${d.actors.length}`;
+    document.getElementById('grid').innerHTML=list.map(a=>`<article class="card" data-id="${a.id}" style="--stance:${stanceColor(a.position)}"><h3>${esc(a.name)}</h3><div class="role">${esc(a.role)}</div><p class="position">${esc(a.relation||'Position non renseignée')}</p><div class="footer"><span class="badge">${esc(a.position)}</span><span>Certitude : ${esc(a.certainty||'Non qualifiée')}</span></div></article>`).join('');
+}
+
+function open(id){
+    const a=d.actorById.get(id);
+    const rel=d.relations.filter(r=>r.source_id===id||r.target_id===id);
+    document.getElementById('detail').innerHTML=`<h2>${esc(a.name)}</h2><p class="role">${esc(a.role)}</p><h3>Position / Contexte</h3><p>${esc(a.relation||'Non renseignée')}</p><p><b>Certitude :</b> ${esc(a.certainty||'Non qualifiée')}</p><h3>Preuves et sources</h3>${evidenceHtml(d,a.evidenceIds)}<h3>Relations documentables</h3>${rel.length?rel.map(r=>{
+        const other=d.actorById.get(r.source_id===id?r.target_id:r.source_id);
+        return `<div class="relation"><button data-open="${other?.id}">${esc(other?.name||'Acteur inconnu')}</button><div><b>${esc(r.type)}</b></div><p>${esc(r.summary)}</p><small>Sujet : ${esc(r.subject)} · Dynamique : ${esc(r.evolution)}</small></div>`;
+    }).join(''):'<p class="muted">Aucune relation qualifiée.</p>'}`;
+    document.getElementById('dialog').showModal();
+}
+
+document.addEventListener('click',e=>{
+    const c=e.target.closest('[data-cat]'),s=e.target.closest('[data-stance]'),card=e.target.closest('.card'),op=e.target.closest('[data-open]');
+    if(c){cat=c.dataset.cat;filters();render();}
+    if(s){stance=s.dataset.stance;filters();render();}
+    if(card)open(card.dataset.id);
+    if(op)open(op.dataset.open);
+});
+
+document.getElementById('search').addEventListener('input',e=>{q=norm(e.target.value);render();});
+document.getElementById('reset').onclick=()=>{cat='all';stance='all';q='';document.getElementById('search').value='';filters();render();};
+document.querySelector('.close').onclick=()=>document.getElementById('dialog').close();
+
+filters();
+render();
