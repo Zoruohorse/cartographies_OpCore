@@ -1,0 +1,499 @@
+{
+  "intro": "Le corpus documente des oppositions et demandes d’encadrement à l’échelle de la filière. Il ne démontre pas de mobilisation locale spécifique contre le projet Opcore de Montereau. Les réserves et controverses ci-dessous ne doivent donc pas être attribuées indistinctement aux acteurs du projet.",
+  "griefs": [
+    {
+      "title": "Opposition sectorielle et appels à la mobilisation",
+      "text": "Le Nuage était sous nos pieds et France Nature Environnement sont classés dans le corpus parmi les acteurs opposés au développement des datacenters. Les éléments associés décrivent des mobilisations, des recours et des appels à lutter contre ces infrastructures. Ils ne démontrent pas une opposition de ces acteurs spécifiquement dirigée contre Montereau.",
+      "evidence_ids": [
+        "L1-EV-008",
+        "L2-EV-008"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "Demandes d’encadrement et acceptabilité territoriale",
+      "text": "Le corpus fait état de demandes d’encadrement portées par des collectivités franciliennes et d’échanges sectoriels impliquant la CNDP et l’Institut Paris Région. Paris-Saclay y est classé critique et Grand Paris Sud prudent, sans relation directe avec Opcore démontrée. Ces signaux éclairent le contexte territorial ; ils ne constituent pas une contestation locale établie du projet.",
+      "evidence_ids": [],
+      "source_ids": [
+        "L2-SRC-014"
+      ]
+    },
+    {
+      "title": "Priorisation électrique et souveraineté",
+      "text": "Les débats portent sur l’allocation de l’électricité et des capacités de calcul, ainsi que sur leurs bénéficiaires français ou européens. L’accueil potentiel de grands fournisseurs américains de cloud alimente cette question. Ces demandes et réserves sectorielles ne valent pas opposition déclarée au projet Opcore.",
+      "evidence_ids": [
+        "L1-EV-006",
+        "L2-EV-004"
+      ],
+      "source_ids": []
+    },
+    {
+      "title": "Impacts environnementaux et retombées : des points à documenter",
+      "text": "Les engagements rapportés sur l’eau, la végétalisation, la hauteur des bâtiments et l’emploi doivent être rapprochés des pièces techniques et des engagements effectifs. Les vigilances du corpus portent aussi sur la chaleur fatale, la dépollution et les retombées locales. Il s’agit de questions ouvertes pour l’acceptabilité, et non de griefs locaux établis dans le corpus.",
+      "evidence_ids": [
+        "L2-EV-005",
+        "L2-EV-006"
+      ],
+      "source_ids": [
+        "L3-SRC-010"
+      ]
+    }
+  ],
+  "vigilance": [
+    {
+      "id": "L1-VIG-001",
+      "title": "Puissance de Montereau",
+      "text": "400 MW dans une source, 700 MW dans plusieurs autres; périmètres possiblement différents",
+      "available_elements": "Valeurs, dates et sources conservées séparément",
+      "importance": 5,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-001"
+      ],
+      "source_ids": [
+        "L1-SRC-001",
+        "L1-SRC-002"
+      ]
+    },
+    {
+      "id": "L1-VIG-002",
+      "title": "Statut contractuel EDF-Opcore",
+      "text": "Négociations exclusives encore mentionnées en août 2026",
+      "available_elements": "Aucun contrat intégral fourni",
+      "importance": 5,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-001"
+      ],
+      "source_ids": [
+        "L1-SRC-005",
+        "L1-SRC-007"
+      ]
+    },
+    {
+      "id": "L1-VIG-003",
+      "title": "Autorisations et calendrier",
+      "text": "Deux à deux ans et demi d'instruction dénoncés; première mise en service 2027 historiquement annoncée",
+      "available_elements": "Risque de cohérence calendaire majeur",
+      "importance": 5,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-002"
+      ],
+      "source_ids": [
+        "L1-SRC-004"
+      ]
+    },
+    {
+      "id": "L1-VIG-004",
+      "title": "Raccordement",
+      "text": "Puissance présentée comme acquise sans convention de raccordement reproduite",
+      "available_elements": "Fast track et forte file d'attente nationale",
+      "importance": 5,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-005",
+        "L1-EV-007"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L1-VIG-005",
+      "title": "AION",
+      "text": "Rôle exact, engagements financiers et opérationnels d'Opcore non détaillés",
+      "available_elements": "Opcore est dans l'écosystème élargi, pas dans la liste des fondateurs",
+      "importance": 4,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-003",
+        "L1-EV-004"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L1-VIG-006",
+      "title": "Clients de Montereau",
+      "text": "Aucun client nommé ni réservation démontrée",
+      "available_elements": "Débat sur la nationalité future des bénéficiaires",
+      "importance": 4,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-006"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L1-VIG-007",
+      "title": "Financement des 4 Md€",
+      "text": "Répartition fonds propres, dette et phasage absente",
+      "available_elements": "iliad et InfraVia identifiés",
+      "importance": 5,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-001"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L1-VIG-008",
+      "title": "Acceptabilité locale",
+      "text": "Opposition sectorielle forte mais aucune mobilisation propre à Montereau identifiée",
+      "available_elements": "Ne pas transposer les contestations de Fouju à Montereau",
+      "importance": 4,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-008"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L1-VIG-009",
+      "title": "Souveraineté réelle",
+      "text": "Infrastructure européenne annoncée mais dépendances aux puces, capitaux et clients étrangers",
+      "available_elements": "Positions contradictoires dans l'écosystème",
+      "importance": 4,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-006"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L1-VIG-010",
+      "title": "Emplois et retombées",
+      "text": "Promesses générales, peu de données propres et permanentes",
+      "available_elements": "Les analyses sectorielles soulignent des emplois directs limités",
+      "importance": 3,
+      "lot": "Lot 1",
+      "evidence_ids": [],
+      "source_ids": [
+        "L1-SRC-014",
+        "L1-SRC-016"
+      ]
+    },
+    {
+      "id": "L1-VIG-011",
+      "title": "Réservations réseau",
+      "text": "Une réservation n'implique pas la réalisation du projet",
+      "available_elements": "Précision explicite de The Local",
+      "importance": 4,
+      "lot": "Lot 1",
+      "evidence_ids": [
+        "L1-EV-007"
+      ],
+      "source_ids": [
+        "L1-SRC-002"
+      ]
+    },
+    {
+      "id": "L2-VIG-001",
+      "title": "Calendrier 2027",
+      "text": "Compatibilité avec un raccordement fast track en trois à quatre ans",
+      "available_elements": "Aucun datacenter IA encore raccordé en février 2026",
+      "importance": 5,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-002"
+      ],
+      "source_ids": [
+        "L2-SRC-001"
+      ]
+    },
+    {
+      "id": "L2-VIG-002",
+      "title": "Clients",
+      "text": "Catégories évoquées, aucun client nommé",
+      "available_elements": "Industriels et clouds américains possibles",
+      "importance": 4,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-004"
+      ],
+      "source_ids": [
+        "L2-SRC-016",
+        "L2-SRC-020"
+      ]
+    },
+    {
+      "id": "L2-VIG-003",
+      "title": "Statut contractuel",
+      "text": "Contrat signé, exclusivité ou simple attribution",
+      "available_elements": "Versions contradictoires du corpus",
+      "importance": 5,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-003"
+      ],
+      "source_ids": [
+        "L2-SRC-004",
+        "L2-SRC-017"
+      ]
+    },
+    {
+      "id": "L2-VIG-004",
+      "title": "Raccordement",
+      "text": "Capacité attribuée au projet et date de disponibilité inconnues",
+      "available_elements": "Site fast track; potentiel supérieur à 700 MW",
+      "importance": 5,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-002"
+      ],
+      "source_ids": [
+        "L2-SRC-001",
+        "L2-SRC-002"
+      ]
+    },
+    {
+      "id": "L2-VIG-005",
+      "title": "Financement",
+      "text": "Source des 4 Md€, dette, fonds propres et phasage inconnus",
+      "available_elements": "Actionnaires identifiés, aucun plan financier",
+      "importance": 5,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-001"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L2-VIG-006",
+      "title": "Autorisations",
+      "text": "Permis, ICPE, dérogations et étude d'impact absents",
+      "available_elements": "Cadre national décrit, situation du projet non précisée",
+      "importance": 5,
+      "lot": "Lot 2",
+      "evidence_ids": [],
+      "source_ids": [
+        "L2-SRC-007",
+        "L2-SRC-010"
+      ]
+    },
+    {
+      "id": "L2-VIG-007",
+      "title": "Puissance",
+      "text": "Plusieurs centaines de MW, 700 MW ou plus de 700 MW selon le périmètre",
+      "available_elements": "Valeurs relatives au projet et au fast track parfois confondues",
+      "importance": 5,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-001",
+        "L2-EV-002"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L2-VIG-008",
+      "title": "Eau",
+      "text": "Pas d'eau hors sanitaires non étayé techniquement",
+      "available_elements": "Absence déclarée; technologie non détaillée",
+      "importance": 4,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-005"
+      ],
+      "source_ids": [
+        "L2-SRC-016"
+      ]
+    },
+    {
+      "id": "L2-VIG-009",
+      "title": "Chaleur fatale",
+      "text": "Débouchés thermiques et montage économique non établis",
+      "available_elements": "Intérêt du maire; étude annoncée",
+      "importance": 3,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-005"
+      ],
+      "source_ids": [
+        "L2-SRC-016"
+      ]
+    },
+    {
+      "id": "L2-VIG-010",
+      "title": "Emplois",
+      "text": "Distinction chantier, indirects et exploitation insuffisante",
+      "available_elements": "Une centaine de directs annoncée",
+      "importance": 4,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-006"
+      ],
+      "source_ids": [
+        "L2-SRC-016"
+      ]
+    },
+    {
+      "id": "L2-VIG-011",
+      "title": "Souveraineté",
+      "text": "Hyperscalers américains potentiellement accueillis",
+      "available_elements": "Déclaration de Thomas Reynaud",
+      "importance": 4,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-004"
+      ],
+      "source_ids": [
+        "L2-SRC-016"
+      ]
+    },
+    {
+      "id": "L2-VIG-012",
+      "title": "Acceptabilité",
+      "text": "Opposition sectorielle organisée mais pas encore locale",
+      "available_elements": "Collectifs et griefs territoriaux ailleurs en Île-de-France",
+      "importance": 4,
+      "lot": "Lot 2",
+      "evidence_ids": [
+        "L2-EV-008"
+      ],
+      "source_ids": [
+        "L2-SRC-003",
+        "L2-SRC-005",
+        "L2-SRC-014"
+      ]
+    },
+    {
+      "id": "L2-VIG-013",
+      "title": "Chaîne d'approvisionnement",
+      "text": "Caractère majoritairement européen non quantifié",
+      "available_elements": "Déclaration secondaire sans fournisseurs",
+      "importance": 3,
+      "lot": "Lot 2",
+      "evidence_ids": [],
+      "source_ids": [
+        "L2-SRC-011"
+      ]
+    },
+    {
+      "id": "L2-VIG-014",
+      "title": "Dépollution du site",
+      "text": "Nature et quantité des résidus inconnues",
+      "available_elements": "Quelques résidus évoqués",
+      "importance": 3,
+      "lot": "Lot 2",
+      "evidence_ids": [],
+      "source_ids": [
+        "L2-SRC-016"
+      ]
+    },
+    {
+      "id": "L3-VIG-001",
+      "title": "Statut contractuel EDF-Opcore",
+      "text": "Sélection, négociations exclusives ou contrat définitif",
+      "available_elements": "Voir preuves associées",
+      "importance": 5,
+      "lot": "Lot 3",
+      "evidence_ids": [
+        "L3-EV-003"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-002",
+      "title": "Raccordement RTE",
+      "text": "Capacité réservée, convention signée, calendrier et coût inconnus",
+      "available_elements": "Voir preuves associées",
+      "importance": 5,
+      "lot": "Lot 3",
+      "evidence_ids": [
+        "L3-EV-005"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-003",
+      "title": "Calendrier 2027",
+      "text": "Faisabilité administrative et électrique non documentée",
+      "available_elements": "Voir preuves associées",
+      "importance": 5,
+      "lot": "Lot 3",
+      "evidence_ids": [
+        "L3-EV-006"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-004",
+      "title": "Financement",
+      "text": "Fonds propres, dette et phasage inconnus",
+      "available_elements": "Voir preuves associées",
+      "importance": 5,
+      "lot": "Lot 3",
+      "evidence_ids": [
+        "L3-EV-001",
+        "L3-EV-006"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-005",
+      "title": "Clients",
+      "text": "Aucun client ou précommercialisation identifié",
+      "available_elements": "Voir preuves associées",
+      "importance": 4,
+      "lot": "Lot 3",
+      "evidence_ids": [
+        "L3-EV-007"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-006",
+      "title": "Autorisations",
+      "text": "Permis, ICPE, environnement et urbanisme non documentés",
+      "available_elements": "Voir preuves associées",
+      "importance": 5,
+      "lot": "Lot 3",
+      "evidence_ids": [],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-007",
+      "title": "Impacts environnementaux",
+      "text": "Eau, refroidissement, chaleur, artificialisation et biodiversité",
+      "available_elements": "Voir preuves associées",
+      "importance": 4,
+      "lot": "Lot 3",
+      "evidence_ids": [],
+      "source_ids": [
+        "L3-SRC-010"
+      ]
+    },
+    {
+      "id": "L3-VIG-008",
+      "title": "Emploi local",
+      "text": "Nombre, nature, durée et caractère contractuel inconnus",
+      "available_elements": "Voir preuves associées",
+      "importance": 4,
+      "lot": "Lot 3",
+      "evidence_ids": [
+        "L3-EV-006"
+      ],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-009",
+      "title": "Souveraineté",
+      "text": "Nationalité des clients, équipements et services cloud inconnue",
+      "available_elements": "Voir preuves associées",
+      "importance": 4,
+      "lot": "Lot 3",
+      "evidence_ids": [],
+      "source_ids": []
+    },
+    {
+      "id": "L3-VIG-010",
+      "title": "Puissance de 700 MW",
+      "text": "Capacité autorisée, raccordable ou effectivement consommée",
+      "available_elements": "Voir preuves associées",
+      "importance": 5,
+      "lot": "Lot 3",
+      "evidence_ids": [
+        "L3-EV-002"
+      ],
+      "source_ids": []
+    }
+  ]
+}
